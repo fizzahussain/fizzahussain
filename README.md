@@ -1,27 +1,103 @@
 <div align="center">
 
-# Hi, I'm Fizza Hussain 👋
+# Fizza Hussain
 
-### I build software across full-stack web, data structures, AI search, databases, games, and low-level systems
+<h2>Software Engineering · AI & Data Science · Full-Stack Development</h2>
+
+<p>
+I build software from <strong>interfaces and APIs</strong> down to
+<strong>algorithms, databases, C++ systems, and x86 Assembly</strong> —
+with a growing focus on <strong>AI, data-driven applications, recommendation systems, and intelligent search</strong>.
+</p>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=820&lines=Full-stack+applications+with+real+data+flows;Algorithms%2C+graphs%2C+search+and+recommendation+systems;C%2B%2B+games%2C+OOP+and+x86+Assembly;Building+projects+that+teach+me+how+systems+actually+work" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Building+full-stack+systems+that+solve+real+problems;Exploring+AI%2C+search%2C+recommendations+and+data+analytics;Turning+algorithms+and+data+structures+into+working+products;Learning+the+stack+from+React+all+the+way+down+to+Assembly"
+    alt="Typing introduction"
+  />
+</a>
+
+<br><br>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/fizzahussain">
+  <img src="https://img.shields.io/badge/GitHub-@fizzahussain-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br>
 
-<a href="#-featured-work">Featured Work</a> •
-<a href="#-engineering-range">Engineering Range</a> •
-<a href="#-toolbox">Toolbox</a> •
-<a href="#-more-projects">More Projects</a>
+<a href="#-featured-projects">Projects</a> •
+<a href="#-ai--data-science">AI & Data</a> •
+<a href="#-engineering-profile">Engineering</a> •
+<a href="#-github-activity">Activity</a> •
+<a href="#-tech-stack">Stack</a>
 
 </div>
 
 ---
 
-# 🚀 Featured Work
+# ✦ What I Bring
 
-These are the projects I would start with if you are here to understand how I think, build, and solve problems.
+<table>
+<tr>
+<td width="33%" valign="top">
+
+## 🧠 AI & Data
+
+I enjoy building systems where **data and decision-making drive the product**.
+
+- Search & game-playing AI
+- Recommendation logic
+- Graph traversal
+- Data analytics
+- LLM/API integration
+- Structured data processing
+
+</td>
+<td width="33%" valign="top">
+
+## 🌐 Product Engineering
+
+I can take an idea across multiple application layers.
+
+- React front ends
+- Node / Express APIs
+- FastAPI services
+- Authentication
+- Relational databases
+- Dashboards & reporting
+
+</td>
+<td width="33%" valign="top">
+
+## ⚙️ Foundations
+
+I care about understanding what happens below the framework layer.
+
+- Data structures
+- Algorithms
+- OOP
+- C++ graphics
+- SQL internals
+- x86 Assembly
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Featured Projects
+
+<p>
+These are the projects that best represent how I approach software: understand the problem,
+model the system, choose the right structures, then build something complete enough to use and explain.
+</p>
 
 <table>
 <tr>
@@ -29,42 +105,52 @@ These are the projects I would start with if you are here to understand how I th
 
 ## 🍽️ MoodMeal
 
-**Full-stack smart meal-planning platform**
+### Intelligent Full-Stack Meal Planning
 
-A React, Node.js, Express, and MySQL application built around pantry tracking, contextual recipe recommendations, expense analytics, expiry awareness, saved recipes, and a Gemini-powered cooking assistant.
+A smart meal-planning platform combining pantry data, recipe recommendations, expense analytics, expiry awareness, saved recipes, and a **Gemini-powered pantry-aware cooking assistant**.
 
-**What it demonstrates**
-- Full-stack application architecture
-- REST APIs and JWT-based authentication
-- Relational database integration
-- External AI/API integration
+**Why it matters**
+
+- Full-stack React + Node/Express architecture
+- MySQL-backed data flows
+- JWT authentication
+- Context-aware recommendation features
+- Gemini and external API integration
 - Deployment-aware configuration
-- Software engineering documentation
 
-**Stack:** `React` `Node.js` `Express` `MySQL` `Gemini API`
+**Stack**
 
-[**Explore MoodMeal →**](https://github.com/fizzahussain/MoodMeal-)
+`React` `Node.js` `Express` `MySQL` `Gemini API`
+
+<br>
+
+[**View Project →**](https://github.com/fizzahussain/MoodMeal-)
 
 </td>
 <td width="50%" valign="top">
 
 ## 🚕 RideFlow
 
-**Database-driven ride-hailing management system**
+### Database-Driven Ride-Hailing Platform
 
-A multi-role platform for Riders, Drivers, and Admins with driver verification, wallets, payments, earnings, commissions, complaints, ratings, and administrative analytics.
+A Rider / Driver / Admin system with verification workflows, wallets, payments, earnings, commissions, complaints, ratings, analytics, and substantial DBMS automation.
 
-**What it demonstrates**
-- Database-first system design
-- Role-based application workflows
-- SQL views, procedures, triggers and events
-- Payments and wallet flows
-- Admin reporting and analytics
-- Node.js / Express application structure
+**Why it matters**
 
-**Stack:** `Node.js` `Express` `EJS` `MySQL` `SQL`
+- Multi-role backend workflows
+- Database-first application design
+- SQL views, procedures and triggers
+- Scheduled events and indexes
+- Wallet / transaction flows
+- Admin analytics and reporting
 
-[**Explore RideFlow →**](https://github.com/fizzahussain/RideFlow)
+**Stack**
+
+`Node.js` `Express` `EJS` `MySQL` `SQL`
+
+<br>
+
+[**View Project →**](https://github.com/fizzahussain/RideFlow)
 
 </td>
 </tr>
@@ -74,42 +160,52 @@ A multi-role platform for Riders, Drivers, and Admins with driver verification, 
 
 ## 🎬 MoviesData Manager
 
-**Movie analytics engine built around core data structures**
+### Data Structures + Recommendation Engine
 
-A C++ data-management project that combines an AVL tree, hash tables, a relationship graph, BFS traversal, filtering, and recommendation logic over a real movie dataset.
+A C++ movie-data system combining an **AVL tree, hash tables, graph relationships, BFS traversal, filters, and recommendation scoring** over a real dataset.
 
-**What it demonstrates**
-- AVL trees and balancing
-- Hash-table indexing
+**Why it matters**
+
+- Balanced-tree storage
+- Hash-based indexing
 - Graph modelling
 - Breadth-first search
+- Data exploration
 - Recommendation logic
-- Complexity-aware implementation
 
-**Stack:** `C++` `AVL Trees` `Hash Tables` `Graphs` `BFS`
+**Stack**
 
-[**Explore MoviesData Manager →**](https://github.com/fizzahussain/MoviesData-MANAGER)
+`C++` `AVL Tree` `Hash Tables` `Graphs` `BFS`
+
+<br>
+
+[**View Project →**](https://github.com/fizzahussain/MoviesData-MANAGER)
 
 </td>
 <td width="50%" valign="top">
 
 ## 🚖 Rush Hour
 
-**OOP-driven C++ arcade game**
+### C++ / OOP Graphical Game
 
-A graphical driving game built with C++, OpenGL, and SDL2 featuring Taxi and Delivery roles, dynamic traffic, fuel management, scoring, procedural board generation, DFS reachability, and persistent leaderboards.
+A graphical driving game with Taxi and Delivery roles, procedural board generation, dynamic traffic, fuel management, DFS reachability, scoring and persistence.
 
-**What it demonstrates**
-- Object-oriented design
-- Inheritance and polymorphism
-- Event-driven game loops
-- DFS-based reachability
-- Collision and state management
+**Why it matters**
+
+- OOP hierarchy and polymorphism
+- Event-driven game loop
+- DFS reachability checks
+- Collision/state management
 - File persistence
+- OpenGL / SDL integration
 
-**Stack:** `C++` `OpenGL` `FreeGLUT` `SDL2` `OOP`
+**Stack**
 
-[**Explore Rush Hour →**](https://github.com/fizzahussain/RushHour-game)
+`C++` `OpenGL` `FreeGLUT` `SDL2` `DFS`
+
+<br>
+
+[**View Project →**](https://github.com/fizzahussain/RushHour-game)
 
 </td>
 </tr>
@@ -117,201 +213,331 @@ A graphical driving game built with C++, OpenGL, and SDL2 featuring Taxi and Del
 
 ---
 
-# 🧭 Engineering Range
-
-I like projects that make me work at **different layers of the stack** rather than staying inside one framework.
-
-<table>
-<tr>
-<td width="25%" align="center" valign="top">
-
-### 🌐 Full Stack
-
-React  
-Node.js  
-Express  
-FastAPI  
-Streamlit  
-REST APIs
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### 🧠 Algorithms
-
-AVL Trees  
-Hash Tables  
-Graphs & BFS  
-DFS  
-Minimax  
-Expectimax
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### 🗄️ Data & DBMS
-
-MySQL  
-SQLite  
-SQL Views  
-Procedures  
-Triggers  
-Indexes
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### ⚙️ Systems
-
-C++  
-OpenGL  
-x86 Assembly  
-MASM / Irvine32  
-File I/O  
-Game Loops
-
-</td>
-</tr>
-</table>
-
-### What that looks like in practice
-
-- **From UI to database:** I have built multi-page and full-stack applications with authentication, APIs, persistent data, analytics, and role-based workflows.
-- **From data structure to feature:** I have implemented trees, hash tables, graphs, BFS/DFS, and search algorithms as part of working applications rather than isolated exercises.
-- **From high level to low level:** My projects range from React and Python applications down to C++ graphics and x86 Assembly.
-- **From code to documentation:** I document architecture, setup, algorithms, database design, testing, limitations, and implementation decisions so projects are understandable beyond the source files.
-
----
-
-# 🛠️ Toolbox
-
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### Frameworks, APIs & Data
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
-
-### Tools & Concepts
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/OOP-6C63FF?style=for-the-badge" alt="OOP" />
-  <img src="https://img.shields.io/badge/Data_Structures-2D8CFF?style=for-the-badge" alt="Data Structures" />
-  <img src="https://img.shields.io/badge/Algorithms-8A2BE2?style=for-the-badge" alt="Algorithms" />
-</p>
-
----
-
-# 🔬 How I Like to Build
-
-```text
-Understand the problem
-        ↓
-Model the data and system
-        ↓
-Choose the right structures / architecture
-        ↓
-Build the core functionality
-        ↓
-Test real flows and edge cases
-        ↓
-Document how and why it works
-        ↓
-Improve the presentation without hiding the limitations
-```
-
-I am especially interested in projects where **the implementation matters** — where a data structure, architecture choice, algorithm, database rule, or systems concept directly shapes the product.
-
----
-
-# 📚 More Projects
-
-<details>
-<summary><b>🧩 Low-level & systems projects</b></summary>
-
-<br>
-
-### 🚕 Rush Hour — x86 Assembly
-A console-based taxi game written in x86 Assembly using MASM and Irvine32, with multiple modes, traffic, fuel, bonuses, persistence, and a leaderboard.
-
-[View repository →](https://github.com/fizzahussain/RUSH-HOUR_assembly)
-
-### 🎯 Word Shooter
-A C++ / OpenGL word game that combines bubble-shooter mechanics with dictionary-based word detection, collision handling, scoring, and timed gameplay.
-
-[View repository →](https://github.com/fizzahussain/Wordshooter-game)
-
-</details>
-
-<details>
-<summary><b>🎨 Front-end & interface projects</b></summary>
-
-<br>
-
-### 📷 RetroReels
-A multi-page camera-store e-commerce prototype built with HTML, CSS, and Bootstrap, with product catalogues, account forms, cart/checkout interfaces, FAQs, testimonials, and media-rich presentation.
-
-[View repository →](https://github.com/fizzahussain/CamCorder_website-)
-
-</details>
-
-<details>
-<summary><b>🧠 AI, search & analytics work</b></summary>
-
-<br>
-
-My project work also includes:
-
-- a **3-player UNO AI** comparing Minimax + alpha-beta pruning with Expectimax
-- a **personal finance analytics platform** using Python, FastAPI, Streamlit, SQLite, JWT authentication, reports, budgets, caching, and exports
-
-These projects explore decision-making, search, analytics, APIs, and multi-interface application design.
-
-</details>
-
----
-
-# 🎯 What I'm Building Toward
-
-I want my work to show more than a list of technologies.
-
-I am building toward being the kind of software engineer who can:
-
-- move comfortably between **application code, algorithms, databases, and systems**
-- understand *why* a solution works, not only how to make it run
-- design software that is easier for another developer to understand and continue
-- turn coursework and technical ideas into projects that feel complete, documented, and usable
-
----
+# 🤖 AI & Data Science
 
 <div align="center">
 
-## Thanks for stopping by 👋
+### This is the direction I am actively growing into.
 
-### The best way to understand my work is to open a project and follow the implementation.
+</div>
 
-<a href="https://github.com/fizzahussain?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+My AI/data work currently sits at the intersection of **algorithms, intelligent decision-making, recommendations, analytics, and data-backed applications**.
+
+<table>
+<tr>
+<th>Project / Area</th>
+<th>What I Worked With</th>
+<th>AI / Data Signal</th>
+</tr>
+<tr>
+<td><b>UNO 3-Player AI</b></td>
+<td>Minimax, alpha-beta pruning, Expectimax, chance nodes, search trees</td>
+<td>Adversarial & probabilistic search</td>
+</tr>
+<tr>
+<td><b>MoviesData Manager</b></td>
+<td>AVL tree, hash tables, movie graph, BFS, recommendation scoring</td>
+<td>Graph-based data modelling & recommendations</td>
+</tr>
+<tr>
+<td><b>MoodMeal</b></td>
+<td>Pantry context, recipe matching, Gemini integration, structured meal data</td>
+<td>AI-assisted recommendations & LLM integration</td>
+</tr>
+<tr>
+<td><b>Personal Finance Analytics</b></td>
+<td>Transactions, budgets, reports, caching, API + dashboard workflows</td>
+<td>Analytics pipelines & data-driven reporting</td>
+</tr>
+</table>
+
+### Areas I want to keep pushing further
+
+`Machine Learning` · `Data Analysis` · `Feature Engineering` · `Recommendation Systems` ·
+`NLP / LLM Applications` · `Graph Algorithms` · `Model Evaluation` · `Applied AI`
+
+> I want AI work on my profile to be backed by projects and implementation — not just an “AI” badge.
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+### Contribution Activity
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=fizzahussain&bg_color=0d1117&color=c4b5fd&line=8b5cf6&point=f8fafc&area=true&hide_border=true"
+  width="100%"
+  alt="Fizza Hussain GitHub activity graph"
+/>
+
+<br>
+
+### Profile Overview
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fizzahussain&theme=tokyonight"
+  width="100%"
+  alt="GitHub profile summary"
+/>
+
+<br>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fizzahussain&theme=tokyonight"
+  width="48%"
+  alt="Repositories per language"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fizzahussain&theme=tokyonight"
+  width="48%"
+  alt="Most used commit languages"
+/>
+
+</div>
+
+<sub>
+These cards are generated from public GitHub activity and may occasionally depend on third-party service availability.
+</sub>
+
+---
+
+# 🧩 Engineering Profile
+
+Rather than presenting myself as one narrow stack, I think of my work in **layers**:
+
+```text
+                 ┌───────────────────────────────┐
+                 │   AI / Data / Recommendations │
+                 └───────────────┬───────────────┘
+                                 │
+                 ┌───────────────▼───────────────┐
+                 │  Applications, APIs & Product  │
+                 └───────────────┬───────────────┘
+                                 │
+                 ┌───────────────▼───────────────┐
+                 │   Databases & Data Modelling   │
+                 └───────────────┬───────────────┘
+                                 │
+                 ┌───────────────▼───────────────┐
+                 │ Algorithms & Data Structures   │
+                 └───────────────┬───────────────┘
+                                 │
+                 ┌───────────────▼───────────────┐
+                 │     C++ / Systems / Assembly   │
+                 └───────────────────────────────┘
+```
+
+### What I want my projects to prove
+
+- I can **build complete systems**, not only isolated code snippets.
+- I can work with **data, algorithms and databases**, not only UI.
+- I can explain the **architecture and complexity** behind an implementation.
+- I am comfortable learning across layers when a project requires it.
+- I care about making projects understandable to the next developer who opens the repository.
+
+---
+
+# 🛠️ Tech Stack
+
+## Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,mysql,sqlite&perline=7" alt="Languages" />
+</p>
+
+## Web, Backend & Data
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,bootstrap,git,github,vscode&perline=8" alt="Frameworks and tools" />
+</p>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### AI / Algorithms
+
+- Minimax
+- Expectimax
+- Alpha-beta pruning
+- BFS / DFS
+- Graph modelling
+- Recommendation logic
+
+</td>
+<td width="33%" valign="top">
+
+### Backend / Data
+
+- REST APIs
+- JWT authentication
+- MySQL
+- SQLite
+- SQL procedures / triggers
+- Reporting & analytics
+
+</td>
+<td width="33%" valign="top">
+
+### Systems / Software
+
+- Object-oriented C++
+- OpenGL / FreeGLUT
+- SDL2
+- x86 Assembly
+- File persistence
+- Git / GitHub
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧪 More Work
+
+<details>
+<summary><h3>🧠 AI & Search — UNO 3-Player AI</h3></summary>
+
+A Python/Jupyter implementation of simplified three-player UNO built to compare different game-search strategies.
+
+- Defensive agents use **Minimax with alpha-beta pruning**
+- Offensive agent uses **Expectimax**
+- Chance nodes model card draws
+- Built-in simulation compares strategies over repeated games
+- Search trees can be printed for inspection
+
+This project is one of the clearest bridges in my portfolio between **algorithmic coursework and AI decision-making**.
+
+</details>
+
+<details>
+<summary><h3>📈 Data & Analytics — Personal Finance Analytics</h3></summary>
+
+A multi-interface Python finance platform with:
+
+- FastAPI backend
+- Streamlit dashboard
+- SQLite persistence
+- JWT-authenticated multi-user accounts
+- transaction and budget tracking
+- reports and exports
+- caching and testing infrastructure
+
+It represents the **analytics/application side** of the AI & data direction I am building toward.
+
+</details>
+
+<details>
+<summary><h3>⚙️ Low-Level — Rush Hour in x86 Assembly</h3></summary>
+
+A console taxi game written in x86 Assembly with MASM and Irvine32.
+
+It includes:
+
+- three game modes
+- difficulty levels
+- traffic and passengers
+- fuel and bonuses
+- save/load
+- persistent leaderboard
+- WinMM audio
+
+[**View Assembly Project →**](https://github.com/fizzahussain/RUSH-HOUR_assembly)
+
+</details>
+
+<details>
+<summary><h3>🎯 C++ / OpenGL — Word Shooter</h3></summary>
+
+A timed word game combining projectile mechanics with dictionary-based word detection, grid state, collision handling and binary-search lookup.
+
+[**View Word Shooter →**](https://github.com/fizzahussain/Wordshooter-game)
+
+</details>
+
+<details>
+<summary><h3>📷 Front-End — RetroReels</h3></summary>
+
+A multi-page retro camera-store e-commerce prototype built with HTML, CSS and Bootstrap.
+
+It includes product catalogues, media-rich cards, cart/checkout interfaces, authentication forms, FAQs and testimonials.
+
+</details>
+
+---
+
+# 🌱 Currently Growing
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## AI & Data Science
+
+I want to deepen the foundations behind the intelligent features I already build:
+
+- applied machine learning
+- exploratory data analysis
+- feature engineering
+- model evaluation
+- recommendation systems
+- NLP / LLM applications
+
+</td>
+<td width="50%" valign="top">
+
+## Software Engineering
+
+At the same time, I want to keep strengthening the engineering around those models:
+
+- production APIs
+- clean architectures
+- testing
+- database design
+- deployment
+- maintainable systems
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🤝 Find Me
+
+<div align="center">
+
+### For recruiters, collaborators, and people building interesting things
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/fizzahussain?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
+</a>
+
+<br><br>
+
+### Optional profiles worth adding if you actively use them
+
+<a href="YOUR_KAGGLE_URL">
+  <img src="https://img.shields.io/badge/Kaggle-Data_Portfolio-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
+</a>
+<a href="YOUR_HUGGINGFACE_URL">
+  <img src="https://img.shields.io/badge/Hugging_Face-Models_&_Demos-FFD21E?style=flat-square" alt="Hugging Face" />
+</a>
+<a href="YOUR_LEETCODE_URL">
+  <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
+</a>
+
+<br><br>
+
+<b>Build deeply. Explain clearly. Keep learning.</b>
 
 </div>
