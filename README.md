@@ -293,30 +293,26 @@ I intentionally build across layers so I can understand how the whole system fit
 
 <div align="center">
 
-### Current Public Profile
+### Building consistently across AI, data, full-stack, and systems projects
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <h2>13</h2>
 <b>Public Repositories</b>
 </td>
-<td align="center" width="25%">
-<h2>4</h2>
-<b>Repository Stars</b>
+<td align="center" width="33%">
+<h2>98</h2>
+<b>Contributions · Last Year</b>
 </td>
-<td align="center" width="25%">
-<h2>4</h2>
-<b>Followers</b>
-</td>
-<td align="center" width="25%">
-<h2>5</h2>
-<b>Following</b>
+<td align="center" width="33%">
+<h2>14</h2>
+<b>Public Commits · Aug 2026</b>
 </td>
 </tr>
 </table>
 
-<sub>Verified against my public GitHub profile.</sub>
+<sub>GitHub profile activity checked August 2026</sub>
 
 <br><br>
 
@@ -328,10 +324,19 @@ I intentionally build across layers so I can understand how the whole system fit
   alt="Fizza Hussain GitHub contribution activity graph"
 />
 
+<br>
+
+### Contribution Streaks
+
+<img
+  src="https://streak-stats.demolab.com?user=fizzahussain&theme=tokyonight&hide_border=true&background=0D1117"
+  width="70%"
+  alt="Fizza Hussain GitHub contribution streak"
+ />
+
 </div>
 
-> I intentionally avoid cached third-party “profile summary” cards here. The numbers above match the public GitHub profile, while the contribution graph is used only as a visual activity overview.
-
+> **Note:** contribution totals change as GitHub activity changes. The figures above reflect my public profile when this README was last updated; the activity and streak graphs update automatically.
 ---
 
 # 🛠️ Toolbox
