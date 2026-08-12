@@ -293,38 +293,44 @@ I intentionally build across layers so I can understand how the whole system fit
 
 <div align="center">
 
+### Current Public Profile
+
+<table>
+<tr>
+<td align="center" width="25%">
+<h2>13</h2>
+<b>Public Repositories</b>
+</td>
+<td align="center" width="25%">
+<h2>4</h2>
+<b>Repository Stars</b>
+</td>
+<td align="center" width="25%">
+<h2>4</h2>
+<b>Followers</b>
+</td>
+<td align="center" width="25%">
+<h2>5</h2>
+<b>Following</b>
+</td>
+</tr>
+</table>
+
+<sub>Verified against my public GitHub profile.</sub>
+
+<br><br>
+
 ### Contribution Activity
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=fizzahussain&bg_color=0d1117&color=c4b5fd&line=8b5cf6&point=f8fafc&area=true&hide_border=true"
   width="100%"
-  alt="Fizza Hussain GitHub activity graph"
-/>
-
-<br>
-
-### Profile Overview
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fizzahussain&theme=tokyonight"
-  width="100%"
-  alt="GitHub profile summary"
-/>
-
-<br>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fizzahussain&theme=tokyonight"
-  width="48%"
-  alt="Repositories per language"
-/>
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fizzahussain&theme=tokyonight"
-  width="48%"
-  alt="Most committed languages"
+  alt="Fizza Hussain GitHub contribution activity graph"
 />
 
 </div>
+
+> I intentionally avoid cached third-party “profile summary” cards here. The numbers above match the public GitHub profile, while the contribution graph is used only as a visual activity overview.
 
 ---
 
