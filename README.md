@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:7C3AED,50:2563EB,100:0F766E&text=Fizza%20Hussain&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=AI%20%26%20Data%20Systems%20%E2%80%A2%20Software%20Engineering%20%E2%80%A2%20Full-Stack&descAlignY=58&animation=fadeIn" width="100%" alt="Fizza Hussain banner"/>
+# 👋 Hi, I'm Fizza Hussain
+
+### AI & Data Systems · Software Engineering · Full-Stack Development
+
+<img src="https://img.shields.io/badge/PRIMARY_FOCUS-AI_%26_DATA_SYSTEMS-7C3AED?style=for-the-badge" alt="Primary focus AI and Data Systems"/>
+<img src="https://img.shields.io/badge/ENGINEERING-SOFTWARE_%26_FULL--STACK-2563EB?style=for-the-badge" alt="Software and Full-Stack Engineering"/>
+<img src="https://img.shields.io/badge/FOUNDATIONS-ALGORITHMS_%26_SYSTEMS-0F766E?style=for-the-badge" alt="Algorithms and Systems"/>
+
+<br><br>
 
 <a href="https://git.io/typing-svg">
   <img
@@ -565,6 +573,12 @@ I'm especially interested in **AI / Data Science, ML/LLM engineering, software e
 
 ### **Build deeply · retrieve carefully · reason clearly · ship end-to-end**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F766E,50:2563EB,100:7C3AED" width="100%" alt="Footer"/>
+<br>
+
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" alt="RAG"/>
+<img src="https://img.shields.io/badge/DATA-2563EB?style=flat-square" alt="Data"/>
+<img src="https://img.shields.io/badge/SOFTWARE-0F766E?style=flat-square" alt="Software"/>
+<img src="https://img.shields.io/badge/SYSTEMS-334155?style=flat-square" alt="Systems"/>
+
 
 </div>
