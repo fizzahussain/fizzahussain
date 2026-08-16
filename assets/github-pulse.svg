@@ -1,0 +1,168 @@
+<svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="1100"
+      height="410"
+      viewBox="0 0 1100 410"
+      role="img"
+      aria-labelledby="title desc"
+    >
+      <title id="title">Fizza Hussain GitHub Pulse</title>
+      <desc id="desc">
+        Automatically generated public GitHub activity statistics for fizzahussain
+      </desc>
+
+      <defs>
+        <linearGradient id="frame" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stop-color="#7c3aed"/>
+          <stop offset="50%" stop-color="#2563eb"/>
+          <stop offset="100%" stop-color="#0f766e"/>
+        </linearGradient>
+
+        <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0">
+          <stop offset="0%" stop-color="#2563eb"/>
+          <stop offset="55%" stop-color="#8b5cf6"/>
+          <stop offset="100%" stop-color="#5eead4"/>
+        </linearGradient>
+
+        <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+          <feGaussianBlur stdDeviation="8" result="blur"/>
+          <feMerge>
+            <feMergeNode in="blur"/>
+            <feMergeNode in="SourceGraphic"/>
+          </feMerge>
+        </filter>
+
+        <style>
+          .title {
+            font: 700 27px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+            fill: #f8fafc;
+          }
+          .subtitle {
+            font: 500 13px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+            fill: #94a3b8;
+          }
+          .metric {
+            font: 800 36px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+            fill: #f8fafc;
+          }
+          .label {
+            font: 700 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+            fill: #c4b5fd;
+            letter-spacing: .4px;
+          }
+          .detail {
+            font: 500 10px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+            fill: #64748b;
+          }
+          .small {
+            font: 600 11px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+            fill: #94a3b8;
+          }
+          .updated {
+            font: 500 10px ui-monospace, SFMono-Regular, Menlo, monospace;
+            fill: #64748b;
+          }
+        </style>
+      </defs>
+
+      <rect width="1100" height="410" rx="26" fill="#0d1117"/>
+      <rect
+        x="1"
+        y="1"
+        width="1098"
+        height="408"
+        rx="25"
+        fill="none"
+        stroke="url(#frame)"
+        stroke-width="2"
+        opacity=".75"
+      />
+
+      <circle cx="70" cy="62" r="13" fill="#8b5cf6" opacity=".18" filter="url(#glow)"/>
+      <circle cx="70" cy="62" r="6" fill="#a78bfa"/>
+
+      <text class="title" x="98" y="58">GITHUB PULSE</text>
+      <text class="subtitle" x="98" y="80">
+        Public engineering activity · automatically regenerated
+      </text>
+
+      <line x1="55" y1="105" x2="1045" y2="105" stroke="#1f2937"/>
+
+      
+    <g transform="translate(160, 148)">
+      <text class="metric" x="0" y="0" text-anchor="middle">13</text>
+      <text class="label" x="0" y="29" text-anchor="middle">PUBLIC REPOSITORIES</text>
+      <text class="detail" x="0" y="50" text-anchor="middle">owned repositories</text>
+    </g>
+    
+      
+    <g transform="translate(420, 148)">
+      <text class="metric" x="0" y="0" text-anchor="middle">140</text>
+      <text class="label" x="0" y="29" text-anchor="middle">CONTRIBUTIONS</text>
+      <text class="detail" x="0" y="50" text-anchor="middle">current GitHub year window</text>
+    </g>
+    
+      
+    <g transform="translate(680, 148)">
+      <text class="metric" x="0" y="0" text-anchor="middle">113</text>
+      <text class="label" x="0" y="29" text-anchor="middle">COMMIT CONTRIBUTIONS</text>
+      <text class="detail" x="0" y="50" text-anchor="middle">current GitHub year window</text>
+    </g>
+    
+      
+    <g transform="translate(940, 148)">
+      <text class="metric" x="0" y="0" text-anchor="middle">13</text>
+      <text class="label" x="0" y="29" text-anchor="middle">ACTIVE REPOSITORIES</text>
+      <text class="detail" x="0" y="50" text-anchor="middle">with commit contributions</text>
+    </g>
+    
+
+      <line x1="55" y1="222" x2="1045" y2="222" stroke="#1f2937"/>
+
+      <text class="small" x="62" y="255">LAST 35 DAYS</text>
+      <text class="small" x="1038" y="255" text-anchor="end">98 contributions in the last 30 days</text>
+
+      <rect x="62.0" y="348.0" width="24.0" height="3.0" rx="2.5" fill="url(#bar)" opacity="0.18"/>
+<rect x="90.0" y="348.0" width="24.0" height="3.0" rx="2.5" fill="url(#bar)" opacity="0.18"/>
+<rect x="118.0" y="348.0" width="24.0" height="3.0" rx="2.5" fill="url(#bar)" opacity="0.18"/>
+<rect x="146.0" y="348.0" width="24.0" height="3.0" rx="2.5" fill="url(#bar)" opacity="0.18"/>
+<rect x="174.0" y="348.0" width="24.0" height="3.0" rx="2.5" fill="url(#bar)" opacity="0.18"/>
+<rect x="202.0" y="348.0" width="24.0" height="3.0" rx="2.5" fill="url(#bar)" opacity="0.18"/>
+<rect x="230.0" y="348.0" width="24.0" height="3.0" rx="2.5" fill="url(#bar)" opacity="0.18"/>
+<rect x="258.0" y="344.0" width="24.0" height="7.0" rx="2.5" fill="url(#bar)" opacity="0.47"/>
+<rect x="286.0" y="348.0" width="24.0" height="3.0" rx="2.5" fill="url(#bar)" opacity="0.18"/>
+<rect x="314.0" y="348.0" width="24.0" height="3.0" rx="2.5" fill="url(#bar)" opacity="0.18"/>
+<rect x="342.0" y="348.0" width="24.0" height="3.0" rx="2.5" fill="url(#bar)" opacity="0.18"/>
+<rect x="370.0" y="348.0" width="24.0" height="3.0" rx="2.5" fill="url(#bar)" opacity="0.18"/>
+<rect x="398.0" y="348.0" width="24.0" height="3.0" rx="2.5" fill="url(#bar)" opacity="0.18"/>
+<rect x="426.0" y="348.0" width="24.0" height="3.0" rx="2.5" fill="url(#bar)" opacity="0.18"/>
+<rect x="454.0" y="348.0" width="24.0" height="3.0" rx="2.5" fill="url(#bar)" opacity="0.18"/>
+<rect x="482.0" y="348.0" width="24.0" height="3.0" rx="2.5" fill="url(#bar)" opacity="0.18"/>
+<rect x="510.0" y="348.0" width="24.0" height="3.0" rx="2.5" fill="url(#bar)" opacity="0.18"/>
+<rect x="538.0" y="348.0" width="24.0" height="3.0" rx="2.5" fill="url(#bar)" opacity="0.18"/>
+<rect x="566.0" y="348.0" width="24.0" height="3.0" rx="2.5" fill="url(#bar)" opacity="0.18"/>
+<rect x="594.0" y="348.0" width="24.0" height="3.0" rx="2.5" fill="url(#bar)" opacity="0.18"/>
+<rect x="622.0" y="348.0" width="24.0" height="3.0" rx="2.5" fill="url(#bar)" opacity="0.18"/>
+<rect x="650.0" y="348.0" width="24.0" height="3.0" rx="2.5" fill="url(#bar)" opacity="0.18"/>
+<rect x="678.0" y="321.8" width="24.0" height="29.2" rx="2.5" fill="url(#bar)" opacity="0.66"/>
+<rect x="706.0" y="348.0" width="24.0" height="3.0" rx="2.5" fill="url(#bar)" opacity="0.18"/>
+<rect x="734.0" y="273.0" width="24.0" height="78.0" rx="2.5" fill="url(#bar)" opacity="1.00"/>
+<rect x="762.0" y="341.2" width="24.0" height="9.8" rx="2.5" fill="url(#bar)" opacity="0.52"/>
+<rect x="790.0" y="315.2" width="24.0" height="35.8" rx="2.5" fill="url(#bar)" opacity="0.70"/>
+<rect x="818.0" y="299.0" width="24.0" height="52.0" rx="2.5" fill="url(#bar)" opacity="0.82"/>
+<rect x="846.0" y="338.0" width="24.0" height="13.0" rx="2.5" fill="url(#bar)" opacity="0.54"/>
+<rect x="874.0" y="341.2" width="24.0" height="9.8" rx="2.5" fill="url(#bar)" opacity="0.52"/>
+<rect x="902.0" y="334.8" width="24.0" height="16.2" rx="2.5" fill="url(#bar)" opacity="0.56"/>
+<rect x="930.0" y="325.0" width="24.0" height="26.0" rx="2.5" fill="url(#bar)" opacity="0.63"/>
+<rect x="958.0" y="348.0" width="24.0" height="3.0" rx="2.5" fill="url(#bar)" opacity="0.18"/>
+<rect x="986.0" y="348.0" width="24.0" height="3.0" rx="2.5" fill="url(#bar)" opacity="0.18"/>
+<rect x="1014.0" y="305.5" width="24.0" height="45.5" rx="2.5" fill="url(#bar)" opacity="0.77"/>
+
+      <text class="updated" x="62" y="384">
+        Source: GitHub GraphQL API · public activity
+      </text>
+      <text class="updated" x="1038" y="384" text-anchor="end">
+        Updated 16 Aug 2026 · 00:28 UTC
+      </text>
+    </svg>
+    
