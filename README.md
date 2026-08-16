@@ -469,7 +469,7 @@ A multi-page retro camera e-commerce interface with product catalogues, checkout
 
 <br>
 
-### Contributions, but make them move ↓
+### Contributions, but make them my fav chilhood game ↓
 
 <img src="https://raw.githubusercontent.com/fizzahussain/fizzahussain/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
 
