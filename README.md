@@ -449,32 +449,37 @@ A multi-page retro camera e-commerce interface with product catalogues, checkout
 
 <div align="center">
 
+### Live engineering activity — generated from GitHub itself
+
+<a href="https://github.com/fizzahussain">
+  <img
+    src="assets/github-pulse.svg"
+    width="100%"
+    alt="Fizza Hussain live GitHub pulse"
+  />
+</a>
+
+<br><br>
+
 ### Contribution Activity
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=fizzahussain&bg_color=0d1117&color=c4b5fd&line=8b5cf6&point=f8fafc&area=true&hide_border=true&custom_title=Fizza%20Hussain's%20Contribution%20Graph"
   width="100%"
-  alt="GitHub contribution activity graph"
+  alt="Fizza Hussain GitHub contribution activity graph"
 />
 
-<br>
+<br><br>
 
-### Contribution Streak
+### Contributions but make it my fav childhood game
 
 <img
-  src="https://streak-stats.demolab.com?user=fizzahussain&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=60A5FA&currStreakLabel=C4B5FD"
-  width="72%"
-  alt="GitHub contribution streak"
+  src="assets/github-contribution-grid-snake-dark.svg"
+  width="100%"
+  alt="Fizza Hussain contribution snake animation"
 />
 
-<br>
-
-### Contributions, but make them my fav chilhood game ↓
-
-<img src="https://raw.githubusercontent.com/fizzahussain/fizzahussain/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
-
 </div>
-
 
 ---
 

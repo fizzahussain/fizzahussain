@@ -1,0 +1,69 @@
+name: Refresh live profile visuals
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "assets/github-pulse.svg"
+      - "assets/github-contribution-grid-snake.svg"
+      - "assets/github-contribution-grid-snake-dark.svg"
+
+  schedule:
+    # GitHub cron uses UTC
+    # Hourly refresh keeps activity from the rest of the account current
+    - cron: "17 * * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-visuals
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate live GitHub Pulse
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USERNAME: fizzahussain
+          PULSE_OUTPUT: assets/github-pulse.svg
+        run: python3 scripts/generate_profile_stats.py
+
+      - name: Generate contribution snakes
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: fizzahussain
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Copy generated snakes
+        run: |
+          cp dist/github-contribution-grid-snake.svg assets/github-contribution-grid-snake.svg
+          cp dist/github-contribution-grid-snake-dark.svg assets/github-contribution-grid-snake-dark.svg
+
+      - name: Commit refreshed visuals
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-pulse.svg
+          git add assets/github-contribution-grid-snake.svg
+          git add assets/github-contribution-grid-snake-dark.svg
+
+          if git diff --cached --quiet; then
+            echo "No profile visual changes to commit"
+            exit 0
+          fi
+
+          git commit -m "chore: refresh profile visuals"
+          git push
