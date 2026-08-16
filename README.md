@@ -475,7 +475,6 @@ A multi-page retro camera e-commerce interface with product catalogues, checkout
 
 </div>
 
-> The snake is generated automatically by GitHub Actions from the real contribution grid. If it is blank immediately after setup, run the included **Generate contribution snake** workflow once.
 
 ---
 
