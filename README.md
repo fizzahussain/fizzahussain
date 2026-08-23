@@ -8,6 +8,10 @@
 <a href="mailto:fizzashah0300@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/fizzahussain?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"/></a>
 
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=fizzahussain&style=flat-square&color=7C3AED" alt="Profile views"/>
+
 </div>
 
 ---
@@ -153,10 +157,10 @@ A C++ movie data system built around AVL trees, hash tables, graph relationships
 <img src="https://img.shields.io/badge/MASM_/_Irvine32-6E4C13?style=for-the-badge" />
 </p>
 
-## 🛠️ Tools
+## 🛠️ Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode&perline=10" alt="Engineering tools"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode&perline=10" alt="Development tools"/>
 </p>
 
 ---
@@ -170,6 +174,22 @@ A C++ movie data system built around AVL trees, hash tables, graph relationships
 - **Parallel CSV Data Processing Pipeline** — processes, pthreads, queues, semaphores and shared memory. [Explore →](https://github.com/fizzahussain/Parallel-CSV-Data-Processing-Pipeline)
 
 [**See all repositories →**](https://github.com/fizzahussain?tab=repositories)
+
+---
+
+# 📊 GitHub Pulse
+
+<div align="center">
+
+<a href="https://github.com/fizzahussain">
+  <img src="assets/github-pulse.svg" width="100%" alt="Fizza Hussain GitHub activity" />
+</a>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fizzahussain&bg_color=0d1117&color=c4b5fd&line=8b5cf6&point=f8fafc&area=true&hide_border=true&custom_title=Fizza%20Hussain's%20Contribution%20Graph" width="100%" alt="Fizza Hussain contribution activity graph"/>
+
+</div>
 
 ---
 
