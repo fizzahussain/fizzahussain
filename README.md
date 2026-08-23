@@ -151,33 +151,6 @@ C++ movie data system built around AVL trees, hash tables, graph relationships, 
 
 ---
 
-
-<details>
-<summary><b>🎮 Open the Search AI project</b></summary>
-<br>
-
-### UNO — 3 Player AI vs Human
-
-A Python/Jupyter simulation comparing defensive **Minimax**, **alpha-beta pruning**, probabilistic **Expectimax**, explicit draw probabilities/chance nodes, human-vs-AI play, automated comparisons, and search-tree visualization.
-
-[**Explore UNO AI →**](https://github.com/fizzahussain/UNO-3Player-AIvsHuman)
-
-</details>
-
-<details>
-<summary><b>📊 Open the Analytics project</b></summary>
-<br>
-
-### Personal Finance Management System
-
-A full-stack personal-finance analytics platform with FastAPI, Streamlit, SQLite, secure multi-user accounts, transaction tracking, category budgets, reporting, exports, caching, and flexible storage layers.
-
-[**Explore Personal Finance →**](https://github.com/fizzahussain/Personal-Finance-Management-System)
-
-</details>
-
----
-
 # 🧰 My Toolbox
 
 ## 🤖 AI / ML / Data Intelligence
