@@ -90,7 +90,7 @@
 
       
     <g transform="translate(160, 148)">
-      <text class="metric" x="0" y="0" text-anchor="middle">16</text>
+      <text class="metric" x="0" y="0" text-anchor="middle">15</text>
       <text class="label" x="0" y="29" text-anchor="middle">PUBLIC REPOSITORIES</text>
       <text class="detail" x="0" y="50" text-anchor="middle">owned repositories</text>
     </g>
@@ -104,14 +104,14 @@
     
       
     <g transform="translate(680, 148)">
-      <text class="metric" x="0" y="0" text-anchor="middle">219</text>
+      <text class="metric" x="0" y="0" text-anchor="middle">203</text>
       <text class="label" x="0" y="29" text-anchor="middle">COMMIT CONTRIBUTIONS</text>
       <text class="detail" x="0" y="50" text-anchor="middle">current GitHub year window</text>
     </g>
     
       
     <g transform="translate(940, 148)">
-      <text class="metric" x="0" y="0" text-anchor="middle">16</text>
+      <text class="metric" x="0" y="0" text-anchor="middle">15</text>
       <text class="label" x="0" y="29" text-anchor="middle">ACTIVE REPOSITORIES</text>
       <text class="detail" x="0" y="50" text-anchor="middle">with commit contributions</text>
     </g>
@@ -162,7 +162,7 @@
         Source: GitHub GraphQL API · public activity
       </text>
       <text class="updated" x="1038" y="384" text-anchor="end">
-        Updated 23 Aug 2026 · 13:01 UTC
+        Updated 23 Aug 2026 · 13:45 UTC
       </text>
     </svg>
     
