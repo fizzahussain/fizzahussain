@@ -195,47 +195,65 @@ flowchart LR
 
 ---
 
-# 🔎 Explore More
+# 🧪 Explore the Portfolio by Signal
 
 <details>
-<summary><b>Systems & Data</b></summary>
+<summary><b>🤖 I want to see AI / Data work</b></summary>
 <br>
 
-**Systems & concurrency**  
-Processes, `fork()` / `execvp()`, pthreads, FIFO communication, producer-consumer queues, semaphores, shared memory, signals, and parallel data processing.
-
-[**Parallel CSV Data Processing Pipeline →**](https://github.com/fizzahussain/Parallel-CSV-Data-Processing-Pipeline)
-
-**Databases & backend**  
-RideFlow, SQL views, procedures, triggers, indexes, APIs, SQLite, MySQL, and PostgreSQL.
-
-[**RideFlow →**](https://github.com/fizzahussain/RideFlow) · [**Personal Finance Management System →**](https://github.com/fizzahussain/Personal-Finance-Management-System)
+1. [**RAG Document Assistant**](https://github.com/fizzahussain/Rag-Document-Assistant) — RAG, Ollama, OCR, STT, pgvector, HNSW, Docker
+2. [**Revival Lab**](https://github.com/fizzahussain/Revival-Lab) — forensic RAG, ChromaDB, LangChain
+3. [**UNO: 3 Player AI vs Human**](https://github.com/fizzahussain/UNO-3Player-AIvsHuman) — Minimax vs Expectimax
+4. [**MoviesData Manager**](https://github.com/fizzahussain/MoviesData-MANAGER) — recommendation, graphs, BFS
+5. [**MoodMeal**](https://github.com/fizzahussain/MoodMeal) — AI-assisted meal planning
+6. [**Personal Finance Management System**](https://github.com/fizzahussain/Personal-Finance-Management-System) — analytics and data management
 
 </details>
 
 <details>
-<summary><b>Graphics & Low-Level</b></summary>
+<summary><b>🌐 I want to see full-stack / database work</b></summary>
 <br>
 
-**Games & graphics**  
-C++ projects using OpenGL, SDL2, OOP, game loops, graph traversal, collision handling, and state management.
-
-[**Rush Hour →**](https://github.com/fizzahussain/RushHour-game) · [**Word Shooter →**](https://github.com/fizzahussain/Wordshooter-game)
-
-**Low-level work**  
-An x86 Assembly version of Rush Hour using MASM/Irvine32, including registers, procedures, memory operations, file I/O, and system APIs.
-
-[**Rush Hour Assembly →**](https://github.com/fizzahussain/RUSHHOUR_Assembly)
+1. [**MoodMeal**](https://github.com/fizzahussain/MoodMeal) — React, Node, Express, MySQL, Gemini
+2. [**RideFlow**](https://github.com/fizzahussain/RideFlow) — Express, EJS, MySQL, views, procedures, triggers
+3. [**Personal Finance Management System**](https://github.com/fizzahussain/Personal-Finance-Management-System) — FastAPI, Streamlit, SQLite
+4. [**CamCorder Website**](https://github.com/fizzahussain/CamCorder_website) — multi-page e-commerce UI
 
 </details>
 
 <details>
-<summary><b>Data & Analytics</b></summary>
+<summary><b>🧠 I want to see algorithms / DSA</b></summary>
 <br>
 
-Exploratory analysis, visualization, financial reporting, dashboards, SQL, clickstream aggregation, and data-processing workflows across different projects.
+1. [**MoviesData Manager**](https://github.com/fizzahussain/MoviesData-MANAGER) — AVL trees, hash tables, graphs, BFS
+2. [**UNO: 3 Player AI vs Human**](https://github.com/fizzahussain/UNO-3Player-AIvsHuman) — game-tree search
+3. [**Rush Hour**](https://github.com/fizzahussain/RushHour-game) — DFS reachability, OOP state
+4. [**Word Shooter**](https://github.com/fizzahussain/Wordshooter-game) — binary-search dictionary lookup
 
 </details>
+
+<details>
+<summary><b>⚙️ I want to see systems / low-level work</b></summary>
+<br>
+
+1. [**Parallel CSV Data Processing Pipeline**](https://github.com/fizzahussain/Parallel-CSV-Data-Processing-Pipeline) — processes, pthreads, queues, semaphores, shared memory
+2. [**Rush Hour Assembly**](https://github.com/fizzahussain/RUSHHOUR_Assembly) — x86 Assembly, MASM/Irvine32, memory and file I/O
+3. [**Rush Hour**](https://github.com/fizzahussain/RushHour-game) — C++, OpenGL, SDL2, game state
+4. [**Word Shooter**](https://github.com/fizzahussain/Wordshooter-game) — C++, SDL2, OOP, game loop
+
+</details>
+
+<details>
+<summary><b>📊 I want to see data / analytics work</b></summary>
+<br>
+
+1. [**Personal Finance Management System**](https://github.com/fizzahussain/Personal-Finance-Management-System) — transaction analytics, budgets, dashboards
+2. [**RideFlow**](https://github.com/fizzahussain/RideFlow) — SQL analytics, views, procedures, reporting
+3. [**MoviesData Manager**](https://github.com/fizzahussain/MoviesData-MANAGER) — structured data, filtering, recommendations
+
+</details>
+
+<br>
 
 [**Explore all repositories →**](https://github.com/fizzahussain?tab=repositories) · [**Explore the portfolio →**](https://fizza-hussain.vercel.app/)
 
