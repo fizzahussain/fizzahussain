@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Fizza Hussain
 
-### Data Science Student · AI/ML · Software & Data Projects
+### AI & Data · Software Engineering · Full-Stack Development
 
 <img src="https://img.shields.io/badge/AI_%26_DATA-7C3AED?style=for-the-badge" alt="AI and Data"/>
 <img src="https://img.shields.io/badge/SOFTWARE-2563EB?style=for-the-badge" alt="Software"/>
@@ -11,12 +11,12 @@
 <br><br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=750&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+AI+and+data-driven+projects;Learning+to+build+with+AI+as+a+tool;Exploring+RAG%2C+recommendation%2C+and+game+AI;From+data+and+algorithms+to+working+applications" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=750&color=A78BFA&center=true&vCenter=true&width=950&lines=Building+AI+and+data-driven+projects;Learning+to+build+with+AI+as+a+tool;Exploring+RAG%2C+recommendation%2C+and+game+AI;From+data+and+algorithms+to+working+applications" alt="Animated introduction" />
 </a>
 
 <br>
 
-I'm a **third-year BS Data Science student at FAST-NUCES Islamabad**. I enjoy figuring out how things work and then trying to build them myself — from algorithms and data projects to web applications and AI-powered tools.
+I'm a **third-year BS Data Science student at FAST-NUCES Islamabad**. I enjoy figuring out how things work and then trying to build them myself, from algorithms and data projects to web applications and AI-powered tools.
 
 I'm particularly interested in **AI/ML, Data Science, NLP, LLM applications, RAG, recommendation systems, and intelligent applications**, while continuing to strengthen my software engineering and systems fundamentals.
 
@@ -28,7 +28,7 @@ I'm particularly interested in **AI/ML, Data Science, NLP, LLM applications, RAG
 
 <br><br>
 
-`AI / Data` · `Software Engineering` · `Algorithms` · `Full-Stack`
+`AI / Data` · `RAG` · `Software Engineering` · `Full-Stack` · `Algorithms` · `Systems`
 
 </div>
 
@@ -38,25 +38,25 @@ I'm particularly interested in **AI/ML, Data Science, NLP, LLM applications, RAG
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="34%" valign="top">
 
 ## 🤖 AI & Data
 
-Machine learning, NLP, LLM applications, RAG, recommendation systems, data analysis, and experimentation with AI tools.
+Machine learning, NLP, LLM applications, RAG, recommendation systems, data analysis, retrieval, and experimenting with AI tools as part of the development process.
 
 </td>
 <td width="33%" valign="top">
 
 ## 💻 Building
 
-Python and C++ projects, backend APIs, databases, web applications, game AI, and data-driven applications.
+Python and C++ projects, backend APIs, databases, web applications, game AI, analytics tools, and applications that connect different parts of a system.
 
 </td>
 <td width="33%" valign="top">
 
 ## ⚙️ Foundations
 
-Data structures, algorithms, operating systems, concurrency, databases, and low-level programming.
+Data structures, algorithms, operating systems, concurrency, databases, graphics, and low-level programming.
 
 </td>
 </tr>
@@ -71,9 +71,9 @@ Data structures, algorithms, operating systems, concurrency, databases, and low-
 <td width="50%" valign="top">
 
 ## 🧠 RAG Document Assistant
-**Local-first document assistant**
+**Local-first document intelligence**
 
-A document assistant combining document parsing, OCR, speech-to-text, semantic retrieval, vector search, and local LLMs. I built it to understand how the pieces of a RAG application fit together rather than treating an LLM as a black box.
+A document assistant combining multi-format ingestion, selective OCR, speech-to-text, semantic retrieval, vector search, local generation, grounded citations, conversation memory, authentication, and containerized services.
 
 `Python` · `FastAPI` · `PostgreSQL` · `pgvector` · `Ollama` · `Docker`
 
@@ -83,9 +83,9 @@ A document assistant combining document parsing, OCR, speech-to-text, semantic r
 <td width="50%" valign="top">
 
 ## 🔬 Revival Lab
-**Research-oriented RAG project**
+**Research-oriented retrieval**
 
-A project exploring semantic retrieval over a curated archive of historical ideas and solutions, with a focus on using retrieval to navigate evidence rather than simply generating answers.
+A project exploring semantic retrieval over a curated archive of historical ideas and solutions, using retrieval to navigate evidence and investigate how older ideas can be adapted to modern constraints.
 
 `Python` · `ChromaDB` · `LangChain` · `OpenAI` · `Gradio`
 
@@ -97,26 +97,26 @@ A project exploring semantic retrieval over a curated archive of historical idea
 <tr>
 <td width="50%" valign="top">
 
-## 🎮 UNO — 3 Player AI vs Human
-**Game AI & search**
+## 🍽️ MoodMeal
+**AI inside a full-stack application**
 
-A Python game-AI project using Minimax and Expectimax, with game-state evaluation, chance nodes, search-depth trade-offs, and human-vs-AI play. The project went through multiple rounds of debugging and improvement while becoming a playable version.
+Smart meal planning with pantry tracking, recipe recommendations, food-expense analytics, expiry awareness, saved recipes, and a Gemini-powered cooking assistant.
 
-`Python` · `Minimax` · `Expectimax` · `JavaScript`
+`React` · `Node.js` · `Express` · `MySQL` · `Gemini API`
 
-[**Explore →**](https://github.com/fizzahussain/UNO-3Player-AIvsHuman)
+[**Explore →**](https://github.com/fizzahussain/MoodMeal)
 
 </td>
 <td width="50%" valign="top">
 
-## 🚕 RideFlow
-**Database-driven ride-hailing system**
+## 🎮 UNO: 3 Player AI vs Human
+**Game AI & search**
 
-A university database project covering rider, driver, and admin workflows, payments, ratings, analytics, and advanced SQL features such as views, procedures, triggers, and indexes.
+A game AI project using Minimax, alpha-beta pruning, Expectimax, chance nodes, game-state evaluation, search-depth trade-offs, and human-vs-AI play. It went through several rounds of debugging and implementation changes while becoming a playable version.
 
-`JavaScript` · `Express` · `EJS` · `MySQL`
+`Python` · `Minimax` · `Expectimax` · `JavaScript`
 
-[**Explore →**](https://github.com/fizzahussain/RideFlow)
+[**Explore →**](https://github.com/fizzahussain/UNO-3Player-AIvsHuman)
 
 </td>
 </tr>
@@ -124,26 +124,53 @@ A university database project covering rider, driver, and admin workflows, payme
 <tr>
 <td width="50%" valign="top">
 
+## 🎬 MoviesData Manager
+**Algorithms + recommendation**
+
+A C++ movie data system using AVL trees, hash tables, graph relationships, BFS, filtering, and custom recommendation logic.
+
+`C++` · `AVL Trees` · `Hash Tables` · `Graphs` · `BFS`
+
+[**Explore →**](https://github.com/fizzahussain/MoviesData-MANAGER)
+
+</td>
+<td width="50%" valign="top">
+
 ## 💰 Personal Finance Management System
 **Finance & analytics**
 
-A personal finance application for tracking transactions, budgets, categories, and reports, with a FastAPI backend and Streamlit interface.
+A personal finance application with transaction tracking, category budgets, reports, exports, secure accounts, a FastAPI backend, and Streamlit interface.
 
 `Python` · `FastAPI` · `Streamlit` · `SQLite`
 
 [**Explore →**](https://github.com/fizzahussain/Personal-Finance-Management-System)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
-## 🎬 MoviesData Manager
-**Data structures & recommendation**
+## 🚕 RideFlow
+**Database systems**
 
-A C++ project using AVL trees, hash tables, graphs, BFS, filtering, and recommendation logic to manage movie data.
+A university database project covering rider, driver, and admin workflows, payments, ratings, analytics, and advanced SQL features including views, procedures, triggers, and indexes.
 
-`C++` · `AVL Trees` · `Hash Tables` · `Graphs`
+`JavaScript` · `Express` · `EJS` · `MySQL`
 
-[**Explore →**](https://github.com/fizzahussain/MoviesData-MANAGER)
+[**Explore →**](https://github.com/fizzahussain/RideFlow)
+
+</td>
+<td width="50%" valign="top">
+
+## ⚡ Parallel CSV Data Processing Pipeline
+**Systems & concurrency**
+
+A C++ clickstream processing project exploring processes, `fork()` / `execvp()`, FIFO communication, pthread worker pools, producer-consumer queues, semaphores, shared memory, signals, and reporting.
+
+`C++` · `pthreads` · `IPC` · `Shared Memory`
+
+[**Explore →**](https://github.com/fizzahussain/Parallel-CSV-Data-Processing-Pipeline)
 
 </td>
 </tr>
@@ -151,7 +178,45 @@ A C++ project using AVL trees, hash tables, graphs, BFS, filtering, and recommen
 
 ---
 
-# 🧰 Tools & Technologies
+# 🧩 More of What I've Built
+
+### 🎮 Games, Graphics & OOP
+
+C++ projects using **OpenGL, SDL2, OOP, game loops, graph traversal, collision handling, state management, and persistence**.
+
+[**Rush Hour →**](https://github.com/fizzahussain/RushHour-game) · [**Word Shooter →**](https://github.com/fizzahussain/Wordshooter-game)
+
+### ⚙️ Low-Level Programming
+
+An x86 Assembly version of Rush Hour using **MASM/Irvine32**, with registers, procedures, memory operations, file I/O, and system-level APIs.
+
+[**Rush Hour Assembly →**](https://github.com/fizzahussain/RUSHHOUR_Assembly)
+
+### 📊 Data & Analytics
+
+Exploratory analysis, visualization, SQL, financial reporting, clickstream aggregation, dashboards, and data-processing workflows across different projects.
+
+Some projects are **university coursework, some are personal projects, and some are things I've continued improving after the course ended**. I keep them because the progression is part of the story.
+
+---
+
+# 🔎 Things I've Explored
+
+| Area | Projects / concepts |
+|---|---|
+| **RAG & LLM applications** | local retrieval, grounded generation, citations, conversation context, Ollama, LangChain |
+| **Vector retrieval** | embeddings, pgvector, ChromaDB, cosine search, HNSW, top-k retrieval |
+| **Document intelligence** | PDF/DOCX/TXT/Markdown/CSV/HTML/JSON ingestion, PyMuPDF, OCR fallback |
+| **Speech AI** | faster-whisper, VAD, CPU/int8 inference, persistent model caching |
+| **Search & game AI** | Minimax, alpha-beta pruning, Expectimax, chance nodes, evaluation functions |
+| **Recommendation** | movie recommendation logic, pantry and recipe matching |
+| **Data analytics** | finance analytics, expense analysis, budgets, reporting, clickstream aggregation |
+| **Systems** | processes, pthreads, IPC, shared memory, semaphores, signals, concurrency |
+| **Low-level & graphics** | x86 Assembly, OpenGL, SDL2, memory and system APIs |
+
+---
+
+# 🧰 My Toolbox
 
 ## 🤖 AI / Data
 
@@ -165,51 +230,29 @@ A C++ project using AVL trees, hash tables, graphs, BFS, filtering, and recommen
 <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Tesseract_OCR-5B9BD5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/faster--whisper-111827?style=for-the-badge" />
 </p>
 
 ## 💻 Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,nodejs,express,fastapi&perline=10" alt="Development technologies"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,nodejs,express,fastapi,bootstrap&perline=11" alt="Development technologies"/>
 </p>
 
 ## 🗄️ Databases & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github,linux,vscode&perline=10" alt="Databases and tools"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github,githubactions,linux,vscode&perline=9" alt="Databases and tools"/>
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge" />
 <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+<img src="https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge" />
 <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
 <img src="https://img.shields.io/badge/x86_Assembly-6E4C13?style=for-the-badge" />
 </p>
-
----
-
-# 🧩 Other Work
-
-### ⚙️ Systems & Concurrency
-
-A C++ clickstream processing project exploring processes, `fork()` / `execvp()`, FIFO communication, pthread worker pools, producer-consumer queues, semaphores, shared memory, signals, and reporting.
-
-[**Parallel CSV Data Processing Pipeline →**](https://github.com/fizzahussain/Parallel-CSV-Data-Processing-Pipeline)
-
-### 🎮 Games, Graphics & OOP
-
-I've also built C++/OpenGL/SDL2 games involving game loops, OOP, graph traversal, collision handling, state management, and persistence.
-
-[**Rush Hour →**](https://github.com/fizzahussain/RushHour-game) · [**Word Shooter →**](https://github.com/fizzahussain/Wordshooter-game)
-
-### ⚙️ Low-Level Programming
-
-An x86 Assembly version of Rush Hour built with MASM/Irvine32, giving me experience with registers, procedures, memory, file I/O, and system-level APIs.
-
-[**Rush Hour Assembly →**](https://github.com/fizzahussain/RUSHHOUR_Assembly)
-
-Some projects here are **university coursework, some are personal projects, and some are things I've continued improving after the course ended**. I keep them because the progression is part of the story.
 
 ---
 
@@ -231,7 +274,9 @@ Some projects here are **university coursework, some are personal projects, and 
 
 I'm currently going deeper into **Machine Learning, NLP, LLM applications, RAG evaluation, recommendation systems, data engineering, and backend development**.
 
-More broadly, I'm interested in learning how to take an idea from **data → implementation → evaluation → working application** and understanding the engineering decisions along the way.
+More broadly, I want to keep learning how to take an idea from **data → implementation → evaluation → working application**, while understanding the engineering decisions behind it.
+
+I'm also interested in exploring areas outside the usual Data Science path when something catches my attention. I like learning by building and seeing where that takes me.
 
 ---
 
@@ -239,7 +284,7 @@ More broadly, I'm interested in learning how to take an idea from **data → imp
 
 <div align="center">
 
-I'm always interested in learning, building, collaborating, and exploring ideas outside the usual boundaries of Data Science.
+I'm always interested in learning, building, collaborating, and exploring ideas across different areas of technology.
 
 <a href="https://www.linkedin.com/in/fizza-hussain-97a171279"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:fizzashah0300@gmail.com"><img src="https://img.shields.io/badge/Email-fizzashah0300%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
