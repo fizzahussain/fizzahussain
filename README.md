@@ -33,10 +33,6 @@
   <img src="https://img.shields.io/badge/Public_Repos-13-181717?style=for-the-badge&logo=github&logoColor=white" alt="13 public repositories"/>
 </a>
 
-<br><br>
-
-`AI / Data` · `RAG` · `LLM Applications` · `Software Engineering` · `Full-Stack` · `Algorithms` · `Systems`
-
 </div>
 
 ---
@@ -78,58 +74,6 @@ My portfolio also goes beneath web frameworks.
 > ### The differentiator
 > **My goal is to become the engineer who can build the intelligent feature _and_ understand the software system carrying it.**
 
----
-
-# 🧬 AI Systems Blueprint
-
-This is the kind of pipeline I have already worked across in my RAG/document-intelligence projects:
-
-```mermaid
-flowchart LR
-    A["📄 PDFs / DOCX / TXT / CSV / HTML / JSON"] --> B["🧹 Parse & Normalize"]
-    V["🎙️ Voice"] --> STT["🗣️ faster-whisper STT"]
-    S["🖼️ Scanned Pages"] --> OCR["👁️ Tesseract OCR"]
-
-    OCR --> B
-    STT --> Q["💬 User Query"]
-    B --> C["✂️ Context-aware Chunking"]
-    C --> D["🧠 Embeddings<br/>nomic-embed-text"]
-    D --> E[("🗄️ PostgreSQL + pgvector")]
-    E --> H["⚡ HNSW / Cosine Retrieval"]
-    Q --> H
-    H --> G["📚 Grounded Context"]
-    G --> L["🤖 Ollama / LLM"]
-    L --> R["✅ Answer + Citations"]
-    R --> M["🧵 Multi-turn Memory"]
-
-    classDef ai fill:#231942,stroke:#a78bfa,color:#fff;
-    classDef data fill:#102a43,stroke:#60a5fa,color:#fff;
-    classDef io fill:#0f2f2f,stroke:#5eead4,color:#fff;
-
-    class D,G,L,M ai;
-    class C,E,H data;
-    class A,V,S,STT,OCR,Q,R io;
-```
-
-<details>
-<summary><b>🔍 What I care about inside an AI system</b></summary>
-<br>
-
-- **Ingestion quality** — different formats, malformed content, duplicates, metadata
-- **OCR fallback** — text extraction should not silently fail on scanned documents
-- **Speech input** — voice becomes another query interface, not a separate toy feature
-- **Chunking strategy** — context boundaries and overlap directly affect retrieval
-- **Embeddings** — the representation layer matters
-- **Vector storage** — persistence, indexes, user isolation, filtering
-- **Retrieval** — cosine similarity, HNSW, top-k, thresholds, relevance
-- **Grounding** — the model should answer from retrieved evidence
-- **Citations** — users should be able to inspect where an answer came from
-- **Evaluation** — retrieval quality matters independently of fluent generation
-- **Product engineering** — auth, APIs, streaming, migrations, Docker, logging, tests
-
-</details>
-
----
 
 # 🌟 Flagship Work
 
@@ -207,18 +151,6 @@ C++ movie data system built around AVL trees, hash tables, graph relationships, 
 
 ---
 
-# 🧠 AI + Data Lab
-
-| Area | What I've actually built / explored |
-|---|---|
-| **RAG & LLM systems** | local-first RAG, grounded generation, citations, multi-turn context, Ollama, LangChain |
-| **Vector retrieval** | embeddings, pgvector, ChromaDB, cosine search, HNSW indexing, top-k retrieval |
-| **Document intelligence** | PDF/DOCX/TXT/Markdown/CSV/HTML/JSON ingestion, PyMuPDF, OCR fallback |
-| **Speech AI** | faster-whisper, VAD, CPU/int8 inference, persistent model cache |
-| **Search AI** | Minimax, alpha-beta pruning, Expectimax, chance nodes |
-| **Recommendations** | movie recommendation logic, pantry/recipe matching |
-| **Data analytics** | personal finance analytics, expense analysis, budgets, reports, clickstream aggregation |
-| **Evaluation mindset** | retrieval quality, explicit test/evaluation scripts, edge cases, grounded outputs |
 
 <details>
 <summary><b>🎮 Open the Search AI project</b></summary>
@@ -328,120 +260,6 @@ A full-stack personal-finance analytics platform with FastAPI, Streamlit, SQLite
 <img src="https://img.shields.io/badge/Testing-059669?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-
----
-
-# 🗺️ Full Engineering Range
-
-```text
-AI / DATA INTELLIGENCE
-RAG · LLMs · OCR · STT · embeddings · vector databases · recommendations · analytics
-        │
-        ▼
-PRODUCT
-React · Gradio · Streamlit · EJS · dashboards · interactive workflows
-        │
-        ▼
-BACKEND / SERVICES
-FastAPI · Node.js · Express · REST · auth · SSE streaming
-        │
-        ▼
-DATA
-PostgreSQL · pgvector · MySQL · SQLite · migrations · SQL automation
-        │
-        ▼
-ALGORITHMS
-AVL · hashing · graphs · BFS · DFS · Minimax · Expectimax · alpha-beta
-        │
-        ▼
-SYSTEMS
-C++ · processes · pthreads · FIFOs · shared memory · semaphores · signals · OpenGL
-        │
-        ▼
-LOW LEVEL
-x86 Assembly · MASM · Irvine32 · OS-facing APIs
-```
-
-That range is intentional: **I want strong AI/Data specialization without becoming dependent on only one abstraction layer.**
-
----
-
-# 🧩 Systems & Database Engineering
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## ⚡ Parallel CSV Data Processing Pipeline
-
-Concurrent C++ clickstream analytics using multiple processes, `fork()` / `execvp()`, FIFO communication, pthread worker pools, bounded producer-consumer queues, semaphores, mutexes, POSIX shared memory, signals, lifecycle management, and TXT/CSV reporting.
-
-[**Explore systems pipeline →**](https://github.com/fizzahussain/Parallel-CSV-Data-Processing-Pipeline)
-
-</td>
-<td width="50%" valign="top">
-
-## 🚕 RideFlow
-
-Database-driven ride-hailing system with Rider/Driver/Admin workflows, verification, wallets/payments, earnings/commissions, complaints/ratings, analytics, SQL views, stored procedures, triggers, indexes, and scheduled events.
-
-[**Explore RideFlow →**](https://github.com/fizzahussain/RideFlow)
-
-</td>
-</tr>
-</table>
-
----
-
-# 🎮 Graphics, OOP & Low-Level Work
-
-<details>
-<summary><b>🚕 Rush Hour — C++ / OpenGL / OOP</b></summary>
-<br>
-
-A graphical driving game with Taxi and Delivery roles, dynamic traffic, fuel management, task-based scoring, DFS reachability, role switching, difficulty progression, and a persistent leaderboard.
-
-**Signal:** OOP design, stateful gameplay systems, graph traversal, graphics/event loops, persistence.
-
-[**View repository →**](https://github.com/fizzahussain/RushHour-game)
-
-</details>
-
-<details>
-<summary><b>🧩 Word Shooter — C++ / OpenGL / SDL2</b></summary>
-<br>
-
-A 2D word-puzzle game combining bubble-shooter mechanics with dictionary-based word detection, scoring, collision handling, a timed game loop, and binary-search lookup.
-
-**Signal:** C++, game loops, graphics, input handling, search, data processing.
-
-[**View repository →**](https://github.com/fizzahussain/Wordshooter-game)
-
-</details>
-
-<details>
-<summary><b>⚙️ Rush Hour — x86 Assembly</b></summary>
-<br>
-
-A complete console taxi game written in x86 Assembly with MASM/Irvine32, featuring multiple modes, traffic, passengers, fuel, bonuses, save/load, leaderboard persistence, and WinMM audio.
-
-**Signal:** low-level control flow, procedures, memory, registers, file I/O, system APIs.
-
-[**View repository →**](https://github.com/fizzahussain/RUSHHOUR_Assembly)
-
-</details>
-
-<details>
-<summary><b>📷 CamCorder Website — Frontend</b></summary>
-<br>
-
-A multi-page retro camera e-commerce interface with product catalogues, checkout/cart UI, account forms, FAQs, testimonials, and media-rich presentation.
-
-**Signal:** HTML/CSS/Bootstrap, multi-page UX, front-end layout, visual presentation.
-
-[**View repository →**](https://github.com/fizzahussain/CamCorder_website)
-
-</details>
 
 ---
 
