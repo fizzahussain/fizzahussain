@@ -37,44 +37,6 @@
 
 ---
 
-# ⚡ My Engineering Signature
-
-<table>
-<tr>
-<td width="34%" valign="top">
-
-## 🧠 AI-first
-
-I am building toward **AI & Data Science** through systems that actually retrieve, reason, evaluate, recommend, analyze, and interact with real data.
-
-**RAG · LLMs · OCR · STT · embeddings · vector search · recommendation · search AI · analytics**
-
-</td>
-<td width="33%" valign="top">
-
-## 🏗️ End-to-end
-
-I like owning the path beyond the model.
-
-**UI → API → auth → data model → retrieval → database → testing → Docker → deployment**
-
-</td>
-<td width="33%" valign="top">
-
-## ⚙️ Foundations matter
-
-My portfolio also goes beneath web frameworks.
-
-**AVL trees · graphs · BFS/DFS · Minimax · pthreads · IPC · shared memory · x86 Assembly**
-
-</td>
-</tr>
-</table>
-
-> ### The differentiator
-> **My goal is to become the engineer who can build the intelligent feature _and_ understand the software system carrying it.**
-
-
 # 🌟 Flagship Work
 
 <table>
