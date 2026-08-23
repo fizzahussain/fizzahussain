@@ -18,7 +18,7 @@
 
 I'm a **third-year BS Data Science student at FAST-NUCES Islamabad**. I enjoy figuring out how things work and then trying to build them myself, from algorithms and data projects to web applications and AI-powered tools.
 
-I'm especially interested in **AI/ML, Data Science, NLP, RAG, recommendation systems, and intelligent applications**, while continuing to build my software engineering and systems fundamentals.
+I'm especially interested in **AI/ML, Data Science, NLP, and building applications around models and data**, while continuing to strengthen my software engineering and systems fundamentals.
 
 <br>
 
@@ -149,7 +149,7 @@ flowchart LR
 - **Grounding:** giving the model useful retrieved context instead of just prompting it
 - **Citations:** making the source of an answer inspectable
 - **Evaluation:** checking retrieval and outputs rather than judging only by how fluent they sound
-- **Application:** APIs, authentication, migrations, interfaces, Docker, and the rest of the software around the model
+- **Application:** APIs, authentication, migrations, interfaces, Docker, and the software around the model
 
 </details>
 
@@ -168,29 +168,75 @@ flowchart LR
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/HNSW-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Embeddings-0F766E?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Tesseract_OCR-5B9BD5?style=for-the-badge" />
 <img src="https://img.shields.io/badge/faster--whisper-111827?style=for-the-badge" />
 </p>
 
-## 💻 Development
+## 💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,nodejs,express,fastapi,bootstrap&perline=11" alt="Development technologies"/>
-</p>
-
-## 🗄️ Databases & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github,githubactions,linux,vscode&perline=9" alt="Databases and tools"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css&perline=10" alt="Programming languages"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/x86_Assembly-6E4C13?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+## 🌐 Web / APIs
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,bootstrap&perline=10" alt="Web frameworks"/>
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=111111" />
+<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+## 🗄️ Databases / Persistence
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&perline=10" alt="Databases"/>
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
 <img src="https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Views_•_Triggers_•_Procedures-0F766E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector_Search-7C3AED?style=for-the-badge" />
+</p>
+
+## ⚙️ Systems / Graphics
+
+<p align="center">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/POSIX_IPC-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/pthreads-334155?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Shared_Memory-475569?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Semaphores-64748B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
-<img src="https://img.shields.io/badge/x86_Assembly-6E4C13?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SDL2-0B5A9D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MASM_/_Irvine32-6E4C13?style=for-the-badge" />
+</p>
+
+## 🧪 Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode&perline=10" alt="Development tools"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+<img src="https://img.shields.io/badge/Logging-1F2937?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Testing-059669?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
@@ -261,15 +307,39 @@ Some projects are **university coursework, some are personal projects, and some 
 
 ---
 
-# 📈 GitHub Activity
+# 📊 GitHub Pulse
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fizzahussain&bg_color=0d1117&color=c4b5fd&line=8b5cf6&point=f8fafc&area=true&hide_border=true&custom_title=Fizza%20Hussain's%20Contribution%20Graph" width="100%" alt="Fizza Hussain GitHub contribution activity graph"/>
+### Live engineering activity from GitHub
+
+<a href="https://github.com/fizzahussain">
+  <img
+    src="assets/github-pulse.svg"
+    width="100%"
+    alt="Fizza Hussain live GitHub pulse"
+  />
+</a>
 
 <br><br>
 
-<img src="assets/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution activity"/>
+### Contribution Activity
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=fizzahussain&bg_color=0d1117&color=c4b5fd&line=8b5cf6&point=f8fafc&area=true&hide_border=true&custom_title=Fizza%20Hussain's%20Contribution%20Graph"
+  width="100%"
+  alt="Fizza Hussain GitHub contribution activity graph"
+/>
+
+<br><br>
+
+### Contributions but make it my fav childhood game
+
+<img
+  src="assets/github-contribution-grid-snake-dark.svg"
+  width="100%"
+  alt="Fizza Hussain contribution snake animation"
+/>
 
 </div>
 
@@ -277,9 +347,9 @@ Some projects are **university coursework, some are personal projects, and some 
 
 # 🎯 What I'm Exploring Next
 
-I'm currently going deeper into **Machine Learning, NLP, retrieval, recommendation systems, data engineering, and backend development**.
+I'm currently going deeper into **machine learning, NLP, retrieval, recommendation systems, data engineering, and backend development**.
 
-I'm also interested in exploring areas outside the usual Data Science path when something catches my attention. I like learning by building and seeing where that takes me.
+I'm also curious about areas outside the usual Data Science path. If something catches my attention, I like learning about it by building something and seeing where it leads.
 
 ---
 
