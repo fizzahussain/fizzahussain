@@ -28,7 +28,7 @@ I'm particularly interested in **AI/ML, Data Science, NLP, LLM applications, RAG
 
 <br><br>
 
-`AI / Data` · `Software` · `Algorithms` · `Full-Stack`
+`AI / Data` · `Software` · `Full-Stack` · `Algorithms`
 
 </div>
 
@@ -66,7 +66,7 @@ Data structures, operating systems, concurrency, databases, graphics, and low-le
 
 # ⭐ Flagship Work
 
-These are the projects that best represent the direction I'm exploring right now.
+A few projects that best represent what I've been interested in building and learning.
 
 <table>
 <tr>
@@ -75,9 +75,9 @@ These are the projects that best represent the direction I'm exploring right now
 ## 🧠 RAG Document Assistant
 **Local-first document intelligence**
 
-A document assistant I built around multi-format ingestion, selective OCR, speech-to-text, semantic retrieval, vector search, local LLMs, grounded citations, conversation memory, authentication, and containerized services.
+A document assistant combining multi-format ingestion, selective OCR, speech-to-text, semantic retrieval, vector search, local LLMs, grounded citations, conversation memory, authentication, and containerized services.
 
-**Interesting parts:** RAG pipeline · pgvector · HNSW search · PyMuPDF · Tesseract OCR · faster-whisper · Ollama · FastAPI · Gradio · Docker
+**Built with:** Python · FastAPI · PostgreSQL · pgvector · Ollama · Gradio · Docker
 
 [**Explore →**](https://github.com/fizzahussain/Rag-Document-Assistant)
 
@@ -89,7 +89,7 @@ A document assistant I built around multi-format ingestion, selective OCR, speec
 
 A project exploring semantic retrieval over a curated archive of historical ideas and solutions, using retrieval to investigate how older ideas can be adapted to modern constraints.
 
-**Interesting parts:** embeddings · ChromaDB · LangChain · OpenAI · Gradio · semantic search
+**Built with:** Python · ChromaDB · LangChain · OpenAI · Gradio
 
 [**Explore →**](https://github.com/fizzahussain/Revival-Lab)
 
@@ -102,9 +102,9 @@ A project exploring semantic retrieval over a curated archive of historical idea
 ## 🎮 UNO: 3 Player AI vs Human
 **Game AI & decision making**
 
-A game AI project using Minimax, alpha-beta pruning, Expectimax, chance nodes, game-state evaluation, and search-depth trade-offs. It also became a good debugging exercise as I worked through turn handling, AI search, timeouts, and the playable interface.
+A game AI project using Minimax, alpha-beta pruning, Expectimax, chance nodes, game-state evaluation, and search-depth trade-offs. It also became a good debugging exercise while working through turn handling, AI search, timeouts, and the playable interface.
 
-**Interesting parts:** Minimax · Expectimax · evaluation functions · search depth · Web Workers
+**Built with:** Python · Minimax · Expectimax · JavaScript
 
 [**Explore →**](https://github.com/fizzahussain/UNO-3Player-AIvsHuman)
 
@@ -116,7 +116,7 @@ A game AI project using Minimax, alpha-beta pruning, Expectimax, chance nodes, g
 
 A C++ movie data project using AVL trees, hash tables, graph relationships, BFS, filtering, and recommendation logic.
 
-**Interesting parts:** AVL trees · hashing · graphs · BFS · recommendation logic
+**Built with:** C++ · AVL Trees · Hash Tables · Graphs · BFS
 
 [**Explore →**](https://github.com/fizzahussain/MoviesData-MANAGER)
 
@@ -128,29 +128,34 @@ A C++ movie data project using AVL trees, hash tables, graph relationships, BFS,
 
 # 🧩 AI Systems Blueprint
 
-A few of the building blocks I've worked with across projects:
+The parts of an AI application I've been most interested in learning by actually putting them together:
 
-**Documents** → PDF/DOCX/TXT/Markdown/CSV/HTML/JSON → **Parsing & OCR** → PyMuPDF / Tesseract → **Chunking** → **Embeddings** → pgvector / ChromaDB → **Retrieval** → top-k / cosine search / HNSW → **Generation** → Ollama / OpenAI / Gemini → **Interface** → FastAPI / Gradio / Streamlit
+```mermaid
+flowchart LR
+    A[Documents] --> B[Parsing]
+    B --> C[OCR / Extraction]
+    C --> D[Chunking]
+    D --> E[Embeddings]
+    E --> F[Vector Store]
+    F --> G[Retrieval]
+    G --> H[Context]
+    H --> I[LLM]
+    I --> J[Grounded Response]
 
-I've also worked with **faster-whisper, VAD, persistent model caching, grounded citations, conversation context, authentication, and Dockerized services** while exploring how these pieces fit together in an application.
+    K[Speech] --> L[Whisper / VAD]
+    L --> J
 
----
+    F --> F1[pgvector / ChromaDB]
+    I --> I1[Ollama / OpenAI / Gemini]
+    C --> C1[PyMuPDF / Tesseract]
+    J --> J1[FastAPI / Gradio / Streamlit]
+```
 
-# 🔎 Explore the Portfolio by Signal
+**What I've worked with inside this:**
 
-Instead of listing every repository here, the rest of my work is grouped by what I was learning or trying to build.
+`PyMuPDF` · `Tesseract OCR` · `faster-whisper` · `VAD` · `pgvector` · `ChromaDB` · `HNSW` · `cosine search` · `Ollama` · `OpenAI` · `Gemini` · `FastAPI` · `Gradio` · `Streamlit` · `Docker`
 
-| Signal | Explore |
-|---|---|
-| **Systems & concurrency** | Processes, `fork()` / `execvp()`, pthreads, FIFO communication, producer-consumer queues, semaphores, shared memory, signals |
-| **Databases & backend** | RideFlow, SQL views, procedures, triggers, indexes, APIs, SQLite, MySQL, PostgreSQL |
-| **Games & graphics** | Rush Hour, Word Shooter, OpenGL, SDL2, game loops, collision handling, graph traversal |
-| **Low-level programming** | x86 Assembly, MASM/Irvine32, registers, memory operations, file I/O, system APIs |
-| **Data & analytics** | Finance analytics, exploratory analysis, visualization, dashboards, reporting, clickstream processing |
-
-[**Explore all repositories →**](https://github.com/fizzahussain?tab=repositories) · [**Explore the portfolio →**](https://fizza-hussain.vercel.app/)
-
-Some of these are **university projects, some are personal projects, and some are projects I've continued improving after coursework**. The progression matters to me as much as the finished result.
+The goal isn't just using an LLM. I've been interested in understanding what happens around it: how documents become searchable, how relevant context is selected, how citations are grounded, and how the pieces fit into an actual application.
 
 ---
 
@@ -191,6 +196,55 @@ Some of these are **university projects, some are personal projects, and some ar
 <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
 <img src="https://img.shields.io/badge/x86_Assembly-6E4C13?style=for-the-badge" />
 </p>
+
+---
+
+# 🔎 Explore More
+
+<details>
+<summary><b>Systems & Data</b></summary>
+
+### ⚙️ Systems & Concurrency
+
+Processes, `fork()` / `execvp()`, pthreads, FIFO communication, producer-consumer queues, semaphores, shared memory, signals, and parallel data processing.
+
+[**Parallel CSV Data Processing Pipeline →**](https://github.com/fizzahussain/Parallel-CSV-Data-Processing-Pipeline)
+
+### 🗄️ Databases & Backend
+
+RideFlow, SQL views, procedures, triggers, indexes, APIs, SQLite, MySQL, and PostgreSQL across coursework and personal projects.
+
+[**RideFlow →**](https://github.com/fizzahussain/RideFlow) · [**Personal Finance Management System →**](https://github.com/fizzahussain/Personal-Finance-Management-System)
+
+</details>
+
+<details>
+<summary><b>Graphics & Low-Level Work</b></summary>
+
+### 🎮 Games & Graphics
+
+C++ projects using OpenGL, SDL2, OOP, game loops, graph traversal, collision handling, state management, and persistence.
+
+[**Rush Hour →**](https://github.com/fizzahussain/RushHour-game) · [**Word Shooter →**](https://github.com/fizzahussain/Wordshooter-game)
+
+### ⚙️ Low-Level Programming
+
+An x86 Assembly version of Rush Hour using MASM/Irvine32, with registers, procedures, memory operations, file I/O, and system-level APIs.
+
+[**Rush Hour Assembly →**](https://github.com/fizzahussain/RUSHHOUR_Assembly)
+
+</details>
+
+<details>
+<summary><b>Data & Analytics</b></summary>
+
+Exploratory analysis, visualization, financial reporting, dashboards, SQL, clickstream aggregation, and data-processing workflows across different projects.
+
+</details>
+
+[**Explore all repositories →**](https://github.com/fizzahussain?tab=repositories) · [**Explore the portfolio →**](https://fizza-hussain.vercel.app/)
+
+Some projects are **university coursework, some are personal projects, and some are things I've continued improving after the course ended**. I keep them because the progression is part of the story.
 
 ---
 
