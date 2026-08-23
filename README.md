@@ -4,24 +4,6 @@
 
 ### BS Data Science · FAST-NUCES Islamabad
 
-<img src="https://img.shields.io/badge/AI_%26_DATA-7C3AED?style=for-the-badge" alt="AI and Data"/>
-<img src="https://img.shields.io/badge/SOFTWARE-2563EB?style=for-the-badge" alt="Software"/>
-<img src="https://img.shields.io/badge/ALGORITHMS_%26_SYSTEMS-0F766E?style=for-the-badge" alt="Algorithms and Systems"/>
-
-<br><br>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=750&color=A78BFA&center=true&vCenter=true&width=950&lines=Building+projects+to+understand+how+things+work;Learning+to+build+with+AI+as+a+tool;From+algorithms+and+data+to+working+applications" alt="Animated introduction" />
-</a>
-
-<br>
-
-I'm a **third-year BS Data Science student at FAST-NUCES Islamabad**. I like figuring out how things work and then trying to build them myself, from algorithms and data projects to web applications and AI-powered tools.
-
-I'm especially interested in **AI/ML, Data Science, NLP, and building applications around models and data**, while continuing to strengthen my software engineering and systems fundamentals.
-
-<br>
-
 <a href="https://www.linkedin.com/in/fizza-hussain-97a171279"><img src="https://img.shields.io/badge/LinkedIn-Fizza_Hussain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:fizzashah0300@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/fizzahussain?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"/></a>
@@ -30,9 +12,15 @@ I'm especially interested in **AI/ML, Data Science, NLP, and building applicatio
 
 ---
 
-# 🌟 Flagship Work
+I'm a **third-year BS Data Science student at FAST-NUCES Islamabad**. I like figuring out how things work and then trying to build them myself, from algorithms and data projects to web applications and AI-powered tools.
 
-A few projects that best represent what I've been building and learning recently.
+I'm especially interested in **AI/ML, Data Science, NLP, and applications around models and data**, while continuing to build my software engineering and systems fundamentals.
+
+---
+
+# 🌟 A Few Projects
+
+These are some of the projects that best represent what I've been building and learning recently.
 
 <table>
 <tr>
@@ -42,21 +30,11 @@ A few projects that best represent what I've been building and learning recently
 
 **Local-first document intelligence**
 
-A document assistant bringing together multi-format ingestion, selective OCR, speech-to-text, retrieval, local generation, citations, conversation memory, authentication, evaluation, and Dockerized services.
+A document assistant that works with different document formats, uses OCR when needed, accepts voice queries, retrieves relevant context, and generates answers with citations. I've also explored authentication, evaluation, conversation memory, and containerized services around it.
 
-**AI layer**  
-`Ollama` · `llama3.2` · `nomic-embed-text` · `RAG`
+`RAG` · `Ollama` · `pgvector` · `Tesseract OCR` · `faster-whisper` · `FastAPI` · `Docker`
 
-**Retrieval**  
-`PostgreSQL` · `pgvector` · `HNSW` · `cosine search`
-
-**Document & speech**  
-`PyMuPDF` · `Tesseract OCR` · `faster-whisper` · `VAD`
-
-**Application**  
-`FastAPI` · `Gradio` · `SQLAlchemy` · `Alembic` · `Docker`
-
-[**Explore RAG Document Assistant →**](https://github.com/fizzahussain/Rag-Document-Assistant)
+[**Explore →**](https://github.com/fizzahussain/Rag-Document-Assistant)
 
 </td>
 <td width="50%" valign="top">
@@ -65,14 +43,11 @@ A document assistant bringing together multi-format ingestion, selective OCR, sp
 
 **Research-oriented RAG**
 
-A project that retrieves forgotten solutions from a curated knowledge archive and explores how historical ideas could be adapted to modern constraints.
+A project that retrieves forgotten solutions from a curated knowledge archive and explores how older ideas could be adapted to modern constraints.
 
-**What I explored**  
-`ChromaDB` · `LangChain` · `OpenAI` · `Gradio` · semantic retrieval · curated evidence · local fallback retrieval
+`ChromaDB` · `LangChain` · `OpenAI` · `Gradio` · semantic retrieval
 
-It got me thinking about retrieval as a way to navigate evidence, rather than simply asking questions over documents.
-
-[**Explore Revival Lab →**](https://github.com/fizzahussain/Revival-Lab)
+[**Explore →**](https://github.com/fizzahussain/Revival-Lab)
 
 </td>
 </tr>
@@ -88,7 +63,7 @@ A meal planning application with pantry tracking, recipe recommendations, food-e
 
 `React` · `Node.js` · `Express` · `MySQL` · `Gemini API`
 
-[**Explore MoodMeal →**](https://github.com/fizzahussain/MoodMeal)
+[**Explore →**](https://github.com/fizzahussain/MoodMeal)
 
 </td>
 <td width="50%" valign="top">
@@ -101,7 +76,7 @@ A C++ movie data system built around AVL trees, hash tables, graph relationships
 
 `C++` · `AVL Trees` · `Hash Tables` · `Graphs` · `BFS`
 
-[**Explore MoviesData Manager →**](https://github.com/fizzahussain/MoviesData-MANAGER)
+[**Explore →**](https://github.com/fizzahussain/MoviesData-MANAGER)
 
 </td>
 </tr>
@@ -109,167 +84,96 @@ A C++ movie data system built around AVL trees, hash tables, graph relationships
 
 ---
 
-# 🧩 AI Systems Blueprint
+# 🧰 Tools I Use
 
-The graph below shows the parts of an AI application I've worked with and wanted to understand beyond just calling a model API.
+## 🤖 AI / Data
 
-```mermaid
-flowchart LR
-    A["📄 Documents"] --> B["Parse / Normalize"]
-    B --> C["Chunking"]
-    C --> D["Embeddings"]
-    D --> E[("Vector Store")]
-    E --> F["Retrieval"]
-    F --> G["Grounded Context"]
-    G --> H["LLM"]
-    H --> I["Answer + Citations"]
+<p align="center">
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/HNSW-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tesseract_OCR-5B9BD5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/faster--whisper-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
 
-    S["🎙️ Speech"] --> STT["faster-whisper / VAD"]
-    STT --> G
+## 💻 Languages
 
-    O["🖼️ Scanned Pages"] --> OCR["Tesseract OCR"]
-    OCR --> B
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,mysql,sqlite&perline=10" alt="Languages"/>
+</p>
 
-    E --> E1["pgvector / ChromaDB / Pinecone"]
-    D --> D1["nomic-embed-text"]
-    H --> H1["Ollama / OpenAI / Gemini"]
-    I --> I1["FastAPI / Gradio / Streamlit"]
-```
+<p align="center">
+<img src="https://img.shields.io/badge/x86_Assembly-6E4C13?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
 
-<details>
-<summary><b>🔍 What I care about inside the system</b></summary>
-<br>
+## 🌐 Web / APIs
 
-- **Ingestion:** different formats, parsing, metadata, malformed content
-- **OCR:** having a fallback when normal text extraction fails
-- **Speech:** faster-whisper and VAD as another way to interact with the system
-- **Chunking:** deciding what context should actually be retrieved
-- **Embeddings:** how documents and queries are represented
-- **Retrieval:** top-k search, cosine similarity, HNSW, relevance
-- **Grounding:** giving the model useful retrieved context instead of just prompting it
-- **Citations:** making the source of an answer inspectable
-- **Evaluation:** checking retrieval and outputs rather than judging only by how fluent they sound
-- **Application:** APIs, authentication, migrations, interfaces, Docker, and the software around the model
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,bootstrap&perline=10" alt="Web frameworks"/>
+</p>
 
-</details>
+<p align="center">
+<img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=111111" />
+<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>
 
----
+## 🗄️ Databases
 
-# 🧰 My Toolbox
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&perline=10" alt="Databases"/>
+</p>
 
-**AI / Data**  
-`Python` · `RAG` · `Ollama` · `llama3.2` · `nomic-embed-text` · `OpenAI` · `Gemini` · `LangChain` · `ChromaDB` · `Pinecone` · `pgvector` · `HNSW` · `Tesseract OCR` · `PyMuPDF` · `faster-whisper` · `VAD` · `NumPy` · `Pandas` · `Matplotlib` · `Power BI`
+<p align="center">
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+<img src="https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Views_•_Triggers_•_Procedures-0F766E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector_Search-7C3AED?style=for-the-badge" />
+</p>
 
-**Languages**  
-`Python` · `C++` · `C` · `JavaScript` · `HTML` · `CSS` · `SQL` · `x86 Assembly` · `Bash`
+## ⚙️ Systems / Graphics
 
-**Web / APIs**  
-`React` · `Node.js` · `Express` · `FastAPI` · `Bootstrap` · `Gradio` · `Streamlit` · `EJS` · `REST APIs` · `JWT`
+<p align="center">
+<img src="https://img.shields.io/badge/POSIX_IPC-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/pthreads-334155?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Shared_Memory-475569?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Semaphores-64748B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
+<img src="https://img.shields.io/badge/SDL2-0B5A9D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MASM_/_Irvine32-6E4C13?style=for-the-badge" />
+</p>
 
-**Databases / Persistence**  
-`PostgreSQL` · `MySQL` · `SQLite` · `SQLAlchemy` · `Alembic` · `Views` · `Triggers` · `Stored Procedures` · `Vector Search`
+## 🛠️ Tools
 
-**Systems / Graphics**  
-`POSIX IPC` · `pthreads` · `Queues` · `Semaphores` · `Shared Memory` · `OpenGL` · `SDL2` · `MASM / Irvine32`
-
-**Tools**  
-`Docker` · `Docker Compose` · `Git` · `GitHub Actions` · `Linux` · `VS Code` · `pytest` · `Figma` · `Canva`
-
----
-
-# 🧪 Explore the Portfolio by Signal
-
-<details>
-<summary><b>🤖 I want to see AI / Data work</b></summary>
-<br>
-
-1. [**RAG Document Assistant**](https://github.com/fizzahussain/Rag-Document-Assistant) — RAG, Ollama, OCR, STT, pgvector, HNSW, Docker
-2. [**Revival Lab**](https://github.com/fizzahussain/Revival-Lab) — research-oriented RAG, ChromaDB, LangChain
-3. [**UNO: 3 Player AI vs Human**](https://github.com/fizzahussain/UNO-3Player-AIvsHuman) — Minimax vs Expectimax
-4. [**MoviesData Manager**](https://github.com/fizzahussain/MoviesData-MANAGER) — recommendation, graphs, BFS
-5. [**MoodMeal**](https://github.com/fizzahussain/MoodMeal) — Gemini-powered meal planning
-6. [**Personal Finance Management System**](https://github.com/fizzahussain/Personal-Finance-Management-System) — transaction analytics and data management
-
-</details>
-
-<details>
-<summary><b>🌐 I want to see full-stack / database work</b></summary>
-<br>
-
-1. [**MoodMeal**](https://github.com/fizzahussain/MoodMeal) — React, Node, Express, MySQL, Gemini
-2. [**RideFlow**](https://github.com/fizzahussain/RideFlow) — Express, EJS, MySQL, views, procedures, triggers
-3. [**Personal Finance Management System**](https://github.com/fizzahussain/Personal-Finance-Management-System) — FastAPI, Streamlit, SQLite
-4. [**CamCorder Website**](https://github.com/fizzahussain/CamCorder_website) — multi-page e-commerce UI
-
-</details>
-
-<details>
-<summary><b>🧠 I want to see algorithms / DSA</b></summary>
-<br>
-
-1. [**MoviesData Manager**](https://github.com/fizzahussain/MoviesData-MANAGER) — AVL trees, hash tables, graphs, BFS
-2. [**UNO: 3 Player AI vs Human**](https://github.com/fizzahussain/UNO-3Player-AIvsHuman) — game-tree search
-3. [**Rush Hour**](https://github.com/fizzahussain/RushHour-game) — DFS reachability, OOP state
-4. [**Word Shooter**](https://github.com/fizzahussain/Wordshooter-game) — binary-search dictionary lookup
-
-</details>
-
-<details>
-<summary><b>⚙️ I want to see systems / low-level work</b></summary>
-<br>
-
-1. [**Parallel CSV Data Processing Pipeline**](https://github.com/fizzahussain/Parallel-CSV-Data-Processing-Pipeline) — processes, pthreads, queues, semaphores, shared memory
-2. [**Rush Hour Assembly**](https://github.com/fizzahussain/RUSHHOUR_Assembly) — x86 Assembly, MASM/Irvine32, memory and file I/O
-3. [**Rush Hour**](https://github.com/fizzahussain/RushHour-game) — C++, OpenGL, SDL2, game state
-4. [**Word Shooter**](https://github.com/fizzahussain/Wordshooter-game) — C++, SDL2, OOP, game loop
-
-</details>
-
-<details>
-<summary><b>📊 I want to see data / analytics work</b></summary>
-<br>
-
-1. [**Personal Finance Management System**](https://github.com/fizzahussain/Personal-Finance-Management-System) — transaction analytics, budgets, dashboards
-2. [**RideFlow**](https://github.com/fizzahussain/RideFlow) — SQL analytics, views, procedures, reporting
-3. [**MoviesData Manager**](https://github.com/fizzahussain/MoviesData-MANAGER) — structured data, filtering, recommendations
-
-</details>
-
-<br>
-
-[**Explore all repositories →**](https://github.com/fizzahussain?tab=repositories) · [**Explore the portfolio →**](https://fizza-hussain.vercel.app/)
-
-Some projects are **university coursework, some are personal projects, and some are things I've continued improving after coursework**. I like keeping that progression visible.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode&perline=10" alt="Engineering tools"/>
+</p>
 
 ---
 
-# 📊 GitHub Pulse
+# 📂 More Things I've Built
 
-<div align="center">
+- **UNO — 3 Player AI vs Human** — Minimax, alpha-beta pruning, Expectimax, chance nodes and game-tree comparisons. [Explore →](https://github.com/fizzahussain/UNO-3Player-AIvsHuman)
+- **RideFlow** — database-driven ride-hailing system with SQL views, stored procedures, triggers, wallets, payments and analytics. [Explore →](https://github.com/fizzahussain/RideFlow)
+- **Personal Finance Management System** — FastAPI + Streamlit application for transactions, budgets, reports and analytics. [Explore →](https://github.com/fizzahussain/Personal-Finance-Management-System)
+- **Rush Hour** — C++ game using OpenGL/SDL2, with a separate x86 Assembly version. [Explore →](https://github.com/fizzahussain/RushHour-game)
+- **Parallel CSV Data Processing Pipeline** — processes, pthreads, queues, semaphores and shared memory. [Explore →](https://github.com/fizzahussain/Parallel-CSV-Data-Processing-Pipeline)
 
-### Live GitHub activity
-
-<a href="https://github.com/fizzahussain">
-  <img src="assets/github-pulse.svg" width="100%" alt="Fizza Hussain GitHub activity" />
-</a>
-
-<br><br>
-
-### Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fizzahussain&bg_color=0d1117&color=c4b5fd&line=8b5cf6&point=f8fafc&area=true&hide_border=true&custom_title=Fizza%20Hussain's%20Contribution%20Graph" width="100%" alt="Fizza Hussain GitHub contribution activity graph"/>
-
-<br><br>
-
-### Contributions but make it my fav childhood game
-
-<img src="assets/github-contribution-grid-snake-dark.svg" width="100%" alt="Fizza Hussain contribution snake animation"/>
-
-</div>
+[**See all repositories →**](https://github.com/fizzahussain?tab=repositories)
 
 ---
 
-# 🎯 What I'm Exploring Next
+# 🌱 What I'm Exploring
 
 I'm currently going deeper into **machine learning, NLP, retrieval, recommendation systems, data engineering, and backend development**.
 
@@ -277,17 +181,12 @@ I'm also curious about areas outside the usual Data Science path. If something c
 
 ---
 
-# 🤝 Let's Connect
-
 <div align="center">
 
-I'm always interested in learning, building, collaborating, and exploring ideas across different areas of technology.
+[**Portfolio**](https://fizza-hussain.vercel.app/) · [**LinkedIn**](https://www.linkedin.com/in/fizza-hussain-97a171279/) · [**GitHub**](https://github.com/fizzahussain)
 
-<a href="https://www.linkedin.com/in/fizza-hussain-97a171279"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:fizzashah0300@gmail.com"><img src="https://img.shields.io/badge/Email-fizzashah0300%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<br>
 
-<br><br>
-
-**Still learning · still experimenting · still building**
+*Still learning · still experimenting · still building*
 
 </div>
