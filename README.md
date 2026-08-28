@@ -216,7 +216,7 @@ C++ movie data system built around AVL trees, hash tables, graph relationships, 
 
 ### Contribution Activity
 
-<img src="assets/github-contribution-graph.svg" width="100%" alt="Fizza Hussain GitHub contribution activity graph" />
+<img src="assets/github-activity-line.svg" width="100%" alt="Fizza Hussain GitHub activity line graph" />
 
 <br><br>
 
