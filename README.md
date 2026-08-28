@@ -216,11 +216,7 @@ C++ movie data system built around AVL trees, hash tables, graph relationships, 
 
 ### Contribution Activity
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=fizzahussain&bg_color=0d1117&color=c4b5fd&line=8b5cf6&point=f8fafc&area=true&hide_border=true&custom_title=Fizza%20Hussain's%20Contribution%20Graph"
-  width="100%"
-  alt="Fizza Hussain GitHub contribution activity graph"
-/>
+<img src="assets/github-contribution-graph.svg" width="100%" alt="Fizza Hussain GitHub contribution activity graph" />
 
 <br><br>
 
