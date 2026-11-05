@@ -97,7 +97,7 @@
     
       
     <g transform="translate(420, 148)">
-      <text class="metric" x="0" y="0" text-anchor="middle">348</text>
+      <text class="metric" x="0" y="0" text-anchor="middle">320</text>
       <text class="label" x="0" y="29" text-anchor="middle">CONTRIBUTIONS</text>
       <text class="detail" x="0" y="50" text-anchor="middle">current GitHub year window</text>
     </g>
@@ -162,7 +162,7 @@
         Source: GitHub GraphQL API · public activity
       </text>
       <text class="updated" x="1038" y="384" text-anchor="end">
-        Updated 05 Nov 2026 · 02:27 UTC
+        Updated 05 Nov 2026 · 10:54 UTC
       </text>
     </svg>
     
